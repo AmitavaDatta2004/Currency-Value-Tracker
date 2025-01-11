@@ -1,0 +1,32 @@
+name: Update Currency Exchange Rates
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual triggering of the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Script
+        run: python fetch_currencies.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "AmitavaDatta2004"
+          git config user.email "dattaarup2004@gmail.com"
+          git add README.md
+          git commit -m "Update currency exchange rates"
+          git push
