@@ -1,6 +1,7 @@
-# fetch_currencies.py
 import requests
 from datetime import datetime, timezone
+import os
+import subprocess
 
 # Replace this with your actual API key
 API_KEY = 'ab5190cdeed8e868c081e4959da09e5e'
@@ -177,6 +178,7 @@ CURRENCY_COUNTRY_MAP = {
     "ZWL": "Zimbabwe",
 }
 
+
 def fetch_exchange_rates():
     try:
         response = requests.get(API_URL)
@@ -216,8 +218,8 @@ This repository **automatically updates** the exchange rates of various currenci
 ## 📅 Last Updated: **{formatted_date}**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
-|-----------------|--------------------------|-----------------------------|"""
-    
+|-----------------|--------------------------|-----------------------------|
+"""
     for currency, rate in sorted(rates.items()):
         if rate != 0:  # Avoid division by zero
             country = CURRENCY_COUNTRY_MAP.get(currency[3:], "Unknown Country")  # Extract 3-letter currency code
@@ -259,6 +261,16 @@ This project is licensed under the **MIT License**.
     # Write to README.md with UTF-8 encoding
     with open("README.md", "w", encoding="utf-8") as file:
         file.write(readme_content)
+
+    # Commit the changes to GitHub
+    try:
+        # Git commit and push changes
+        subprocess.run(["git", "add", "README.md"], check=True)
+        subprocess.run(["git", "commit", "-m", "Updated exchange rates in README.md"], check=True)
+        subprocess.run(["git", "push"], check=True)
+        print("README.md updated and pushed successfully!")
+    except subprocess.CalledProcessError as e:
+        print(f"Error while committing or pushing changes: {e}")
 
 if __name__ == "__main__":
     try:
