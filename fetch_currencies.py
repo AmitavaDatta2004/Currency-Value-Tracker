@@ -1,5 +1,7 @@
 import requests
-from datetime import datetime
+from datetime import datetime, timezone
+import os
+import subprocess
 
 # Replace this with your actual API key
 API_KEY = 'ab5190cdeed8e868c081e4959da09e5e'
@@ -42,17 +44,17 @@ def fetch_exchange_rates():
         raise SystemExit(f"Unexpected error: {e}")
 
 def update_readme(rates, timestamp):
-    # Convert timestamp to human-readable format
-    time_stamp_date = datetime.utcfromtimestamp(timestamp)
+    # Convert timestamp to human-readable format using timezone-aware datetime
+    time_stamp_date = datetime.fromtimestamp(timestamp, timezone.utc)
     formatted_date = time_stamp_date.strftime("%Y-%m-%d %H:%M:%S UTC")
 
     # Prepare README content
     readme_content = f"""# 🌏 Currency Exchange Rates (INR)
 
 ![Currency Tracker](https://img.shields.io/badge/Currency-Tracker-blue?style=flat-square)
-![Update Schedule](https://img.shields.io/badge/Updates-Every%206%20hours-green?style=flat-square)
+![Update Schedule](https://img.shields.io/badge/Updates-Every%208%20hours-green?style=flat-square)
 
-This repository **automatically updates** the exchange rates of various currencies with respect to **INR (Indian Rupee)** every 6 hours. The data is fetched from a reliable free API ([ExchangeRate API](https://exchangerate.host)) and displayed here in real time.
+This repository **automatically updates** the exchange rates of various currencies with respect to **INR (Indian Rupee)** every 8 hours. The data is fetched from a reliable free API ([ExchangeRate API](https://exchangerate.host)) and displayed here in real time.
 
 ---
 
@@ -73,14 +75,14 @@ This repository **automatically updates** the exchange rates of various currenci
 ## 🚀 How It Works
 1. A **Python script** fetches the latest exchange rates using the [ExchangeRate API](https://exchangerate.host).
 2. The script updates this `README.md` file with the latest rates.
-3. **GitHub Actions** ensures the script runs **every 6 hours** and commits the changes back to the repository.
+3. **GitHub Actions** ensures the script runs **every 8 hours** and commits the changes back to the repository.
 
 ---
 
 ## 🌟 Features
 - **Automated Updates**: No manual intervention needed.
 - **Open Source**: Easily customizable for other currencies or base units.
-- **Real-Time Data**: Updated every 6 hours with the latest rates.
+- **Real-Time Data**: Updated every 8 hours with the latest rates.
 
 ---
 
@@ -99,14 +101,23 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 ### 📜 License
 This project is licensed under the **MIT License**.
 """
-    # Write to README.md
-    with open("README.md", "w") as file:
+    # Write to README.md with UTF-8 encoding
+    with open("README.md", "w", encoding="utf-8") as file:
         file.write(readme_content)
+
+    # Commit the changes to GitHub
+    try:
+        # Git commit and push changes
+        subprocess.run(["git", "add", "README.md"], check=True)
+        subprocess.run(["git", "commit", "-m", "Updated exchange rates in README.md"], check=True)
+        subprocess.run(["git", "push"], check=True)
+        print("README.md updated and pushed successfully!")
+    except subprocess.CalledProcessError as e:
+        print(f"Error while committing or pushing changes: {e}")
 
 if __name__ == "__main__":
     try:
         rates, timestamp = fetch_exchange_rates()
         update_readme(rates, timestamp)
-        print("README.md updated successfully!")
     except Exception as e:
         print(f"Error: {e}")
