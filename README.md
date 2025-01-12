@@ -7,11 +7,10 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-01-12 08:19:15 UTC**
+## 📅 Last Updated: **2025-01-12 16:20:03 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
-|-----------------|--------------------------|-----------------------------|
-| AED             | United Arab Emirates                 | 1 AED = 0.04 INR |
+|-----------------|--------------------------|-----------------------------|| AED             | United Arab Emirates                 | 1 AED = 0.04 INR |
 | AFN             | Afghanistan                 | 1 AFN = 0.71 INR |
 | ALL             | Albania                 | 1 ALL = 0.96 INR |
 | AMD             | Armenia                 | 1 AMD = 4.02 INR |
