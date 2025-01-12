@@ -8,10 +8,18 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
+    
     steps:
     - name: Checkout the repository
       uses: actions/checkout@v2
+      with:
+        ref: main
+
+    - name: Update status file
+      run: |
+        echo "Currency Rate Bot Status: Active ✅" > status.txt
+        echo "Last Updated: $(date)" >> status.txt
+
 
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -26,10 +34,14 @@ jobs:
     - name: Run the script to update README.md
       run: python fetch_currencies.py
 
+
+    - name: Configure Git
+      run: |
+        git config --global user.name "AmitavaDatta2004"
+        git config --global user.email "dattaarup2004@gmail.com"
+
     - name: Commit and push changes
       run: |
-        git config user.name "AmitavaDatta2004"
-        git config user.email "dattaarup2004@gmail.com"
         git add README.md
         git commit -m "Automated update of exchange rates"
         git push
