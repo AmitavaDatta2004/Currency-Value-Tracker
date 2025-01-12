@@ -18,7 +18,7 @@ jobs:
     - name: Update status file
       run: |
         echo "Currency Rate Bot Status: Active ✅" > status.txt
-        echo "Last Updated: $(date)" >> status.txt
+        echo "Last Updated: $(date '+%Y-%m-%d %H:%M:%S')" >> status.txt
 
 
     - name: Set up Python
