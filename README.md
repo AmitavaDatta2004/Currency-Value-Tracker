@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-01-12 16:20:03 UTC**
+## 📅 Last Updated: **2025-01-13 01:26:03 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|| AED             | United Arab Emirates                 | 1 AED = 0.04 INR |
@@ -65,7 +65,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | GGP             | Guernsey                 | 1 GGP = 0.01 INR |
 | GHS             | Ghana                 | 1 GHS = 0.15 INR |
 | GIP             | Gibraltar                 | 1 GIP = 0.01 INR |
-| GMD             | Gambia                 | 1 GMD = 0.72 INR |
+| GMD             | Gambia                 | 1 GMD = 0.71 INR |
 | GNF             | Guinea                 | 1 GNF = 86.85 INR |
 | GTQ             | Guatemala                 | 1 GTQ = 0.08 INR |
 | GYD             | Guyana                 | 1 GYD = 2.10 INR |
@@ -90,7 +90,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | KHR             | Cambodia                 | 1 KHR = 40.60 INR |
 | KMF             | Comoros                 | 1 KMF = 4.78 INR |
 | KPW             | North Korea                 | 1 KPW = 9.00 INR |
-| KRW             | South Korea                 | 1 KRW = 14.74 INR |
+| KRW             | South Korea                 | 1 KRW = 14.70 INR |
 | KWD             | Kuwait                 | 1 KWD = 0.00 INR |
 | KYD             | Cayman Islands                 | 1 KYD = 0.01 INR |
 | KZT             | Kazakhstan                 | 1 KZT = 5.30 INR |
@@ -114,10 +114,10 @@ This repository **automatically updates** the exchange rates of various currenci
 | MVR             | Maldives                 | 1 MVR = 0.15 INR |
 | MWK             | Malawi                 | 1 MWK = 17.42 INR |
 | MXN             | Mexico                 | 1 MXN = 0.21 INR |
-| MYR             | Malaysia                 | 1 MYR = 0.04 INR |
+| MYR             | Malaysia                 | 1 MYR = 0.05 INR |
 | MZN             | Mozambique                 | 1 MZN = 0.64 INR |
 | NAD             | Namibia                 | 1 NAD = 0.19 INR |
-| NGN             | Nigeria                 | 1 NGN = 15.51 INR |
+| NGN             | Nigeria                 | 1 NGN = 15.55 INR |
 | NIO             | Nicaragua                 | 1 NIO = 0.37 INR |
 | NOK             | Norway                 | 1 NOK = 0.11 INR |
 | NPR             | Nepal                 | 1 NPR = 1.38 INR |
@@ -143,12 +143,12 @@ This repository **automatically updates** the exchange rates of various currenci
 | SGD             | Singapore                 | 1 SGD = 0.01 INR |
 | SHP             | Saint Helena                 | 1 SHP = 0.01 INR |
 | SLE             | Sierra Leone                 | 1 SLE = 0.23 INR |
-| SLL             | Sierra Leone (Old Currency)                 | 1 SLL = 209.70 INR |
+| SLL             | Sierra Leone (Old Currency)                 | 1 SLL = 209.69 INR |
 | SOS             | Somalia                 | 1 SOS = 5.74 INR |
 | SRD             | Suriname                 | 1 SRD = 0.35 INR |
 | STD             | São Tomé and Príncipe                 | 1 STD = 206.98 INR |
 | SVC             | El Salvador                 | 1 SVC = 0.09 INR |
-| SYP             | Syria                 | 1 SYP = 25.13 INR |
+| SYP             | Syria                 | 1 SYP = 130.02 INR |
 | SZL             | Swaziland                 | 1 SZL = 0.19 INR |
 | THB             | Thailand                 | 1 THB = 0.35 INR |
 | TJS             | Tajikistan                 | 1 TJS = 0.11 INR |
