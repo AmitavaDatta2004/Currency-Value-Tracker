@@ -7,11 +7,10 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-01-16 16:54:18 UTC**
+## 📅 Last Updated: **2025-01-16 16:55:03 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
-|-----------------|--------------------------|-----------------------------|
-| AED             | United Arab Emirates                 | 1 AED = 0.04 INR |
+|-----------------|--------------------------|-----------------------------|| AED             | United Arab Emirates                 | 1 AED = 0.04 INR |
 | AFN             | Afghanistan                 | 1 AFN = 0.73 INR |
 | ALL             | Albania                 | 1 ALL = 0.95 INR |
 | AMD             | Armenia                 | 1 AMD = 3.98 INR |
@@ -75,7 +74,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | HRK             | Croatia                 | 1 HRK = 0.07 INR |
 | HTG             | Haiti                 | 1 HTG = 1.31 INR |
 | HUF             | Hungary                 | 1 HUF = 4.01 INR |
-| IDR             | Indonesia                 | 1 IDR = 163.74 INR |
+| IDR             | Indonesia                 | 1 IDR = 163.76 INR |
 | ILS             | Israel                 | 1 ILS = 0.04 INR |
 | IMP             | Isle of Man                 | 1 IMP = 0.01 INR |
 | INR             | India                 | 1 INR = 0.87 INR |
@@ -86,7 +85,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | JMD             | Jamaica                 | 1 JMD = 1.57 INR |
 | JOD             | Jordan                 | 1 JOD = 0.01 INR |
 | JPY             | Japan                 | 1 JPY = 1.55 INR |
-| KES             | Kenya                 | 1 KES = 1.30 INR |
+| KES             | Kenya                 | 1 KES = 1.29 INR |
 | KGS             | Kyrgyzstan                 | 1 KGS = 0.87 INR |
 | KHR             | Cambodia                 | 1 KHR = 40.32 INR |
 | KMF             | Comoros                 | 1 KMF = 4.78 INR |
