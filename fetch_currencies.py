@@ -216,8 +216,8 @@ This repository **automatically updates** the exchange rates of various currenci
 ## 📅 Last Updated: **{formatted_date}**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
-|-----------------|--------------------------|-----------------------------|"""
-    
+|-----------------|--------------------------|-----------------------------|
+"""
     for currency, rate in sorted(rates.items()):
         if rate != 0:  # Avoid division by zero
             country = CURRENCY_COUNTRY_MAP.get(currency[3:], "Unknown Country")  # Extract 3-letter currency code
