@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-01-18 16:18:03 UTC**
+## 📅 Last Updated: **2025-01-19 01:25:16 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -17,7 +17,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | AMD             | Armenia                 | 1 AMD = 4.01 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
 | AOA             | Angola                 | 1 AOA = 9.14 INR |
-| ARS             | Argentina                 | 1 ARS = 10.38 INR |
+| ARS             | Argentina                 | 1 ARS = 10.41 INR |
 | AUD             | Australia                 | 1 AUD = 0.02 INR |
 | AWG             | Aruba                 | 1 AWG = 0.02 INR |
 | AZN             | Azerbaijan                 | 1 AZN = 0.02 INR |
@@ -156,7 +156,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | TMT             | Turkmenistan                 | 1 TMT = 0.04 INR |
 | TND             | Tunisia                 | 1 TND = 0.03 INR |
 | TOP             | Tonga                 | 1 TOP = 0.02 INR |
-| TRY             | Turkey                 | 1 TRY = 0.35 INR |
+| TRY             | Turkey                 | 1 TRY = 0.36 INR |
 | TTD             | Trinidad and Tobago                 | 1 TTD = 0.07 INR |
 | TWD             | Taiwan                 | 1 TWD = 0.33 INR |
 | TZS             | Tanzania                 | 1 TZS = 25.30 INR |
