@@ -223,7 +223,7 @@ This repository **automatically updates** the exchange rates of various currenci
     for currency, rate in sorted(rates.items()):
         if rate != 0:  # Avoid division by zero
             country = CURRENCY_COUNTRY_MAP.get(currency[3:], "Unknown Country")  # Extract 3-letter currency code
-            rate_in_inr = rate / 100  # Handle rates like USDINR, GBPINR
+            rate_in_inr = rate  # Handle rates like USDINR, GBPINR
             readme_content += f"| {currency[3:]}             | {country}                 | 1 {currency[3:]} = {rate_in_inr:.2f} INR |\n"
 
     readme_content += """
