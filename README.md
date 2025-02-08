@@ -7,14 +7,14 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-02-08 01:19:16 UTC**
+## 📅 Last Updated: **2025-02-08 08:21:04 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
 | AED             | United Arab Emirates                 | 1 AED = 0.04 INR |
 | AFN             | Afghanistan                 | 1 AFN = 0.74 INR |
 | ALL             | Albania                 | 1 ALL = 0.96 INR |
-| AMD             | Armenia                 | 1 AMD = 3.97 INR |
+| AMD             | Armenia                 | 1 AMD = 4.01 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
 | AOA             | Angola                 | 1 AOA = 9.14 INR |
 | ARS             | Argentina                 | 1 ARS = 10.53 INR |
@@ -23,7 +23,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | AZN             | Azerbaijan                 | 1 AZN = 0.02 INR |
 | BAM             | Bosnia and Herzegovina                 | 1 BAM = 0.02 INR |
 | BBD             | Barbados                 | 1 BBD = 0.02 INR |
-| BDT             | Bangladesh                 | 1 BDT = 1.22 INR |
+| BDT             | Bangladesh                 | 1 BDT = 1.23 INR |
 | BGN             | Bulgaria                 | 1 BGN = 0.02 INR |
 | BHD             | Bahrain                 | 1 BHD = 0.00 INR |
 | BIF             | Burundi                 | 1 BIF = 29.23 INR |
@@ -45,7 +45,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | CLP             | Chile                 | 1 CLP = 9.63 INR |
 | CNH             | China (Offshore Yuan)                 | 1 CNH = 0.07 INR |
 | CNY             | China                 | 1 CNY = 0.07 INR |
-| COP             | Colombia                 | 1 COP = 41.20 INR |
+| COP             | Colombia                 | 1 COP = 41.54 INR |
 | CRC             | Costa Rica                 | 1 CRC = 5.10 INR |
 | CUC             | Cuba (Convertible Peso)                 | 1 CUC = 0.01 INR |
 | CUP             | Cuba                 | 1 CUP = 0.27 INR |
@@ -64,12 +64,12 @@ This repository **automatically updates** the exchange rates of various currenci
 | GBP             | United Kingdom                 | 1 GBP = 0.01 INR |
 | GEL             | Georgia                 | 1 GEL = 0.03 INR |
 | GGP             | Guernsey                 | 1 GGP = 0.01 INR |
-| GHS             | Ghana                 | 1 GHS = 0.15 INR |
+| GHS             | Ghana                 | 1 GHS = 0.16 INR |
 | GIP             | Gibraltar                 | 1 GIP = 0.01 INR |
 | GMD             | Gambia                 | 1 GMD = 0.72 INR |
 | GNF             | Guinea                 | 1 GNF = 86.55 INR |
 | GTQ             | Guatemala                 | 1 GTQ = 0.08 INR |
-| GYD             | Guyana                 | 1 GYD = 2.10 INR |
+| GYD             | Guyana                 | 1 GYD = 2.11 INR |
 | HKD             | Hong Kong                 | 1 HKD = 0.08 INR |
 | HNL             | Honduras                 | 1 HNL = 0.26 INR |
 | HRK             | Croatia                 | 1 HRK = 0.07 INR |
@@ -86,7 +86,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | JMD             | Jamaica                 | 1 JMD = 1.58 INR |
 | JOD             | Jordan                 | 1 JOD = 0.01 INR |
 | JPY             | Japan                 | 1 JPY = 1.51 INR |
-| KES             | Kenya                 | 1 KES = 1.29 INR |
+| KES             | Kenya                 | 1 KES = 1.30 INR |
 | KGS             | Kyrgyzstan                 | 1 KGS = 0.87 INR |
 | KHR             | Cambodia                 | 1 KHR = 40.17 INR |
 | KMF             | Comoros                 | 1 KMF = 4.77 INR |
@@ -161,7 +161,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | TWD             | Taiwan                 | 1 TWD = 0.33 INR |
 | TZS             | Tanzania                 | 1 TZS = 25.68 INR |
 | UAH             | Ukraine                 | 1 UAH = 0.41 INR |
-| UGX             | Uganda                 | 1 UGX = 36.75 INR |
+| UGX             | Uganda                 | 1 UGX = 36.89 INR |
 | UYU             | Uruguay                 | 1 UYU = 0.44 INR |
 | UZS             | Uzbekistan                 | 1 UZS = 129.75 INR |
 | VES             | Unknown Country                 | 1 VES = 0.60 INR |
