@@ -7,14 +7,14 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-03-04 08:21:11 UTC**
+## 📅 Last Updated: **2025-03-04 16:24:12 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
 | AED             | United Arab Emirates                 | 1 AED = 0.04 INR |
-| AFN             | Afghanistan                 | 1 AFN = 0.73 INR |
-| ALL             | Albania                 | 1 ALL = 0.95 INR |
-| AMD             | Armenia                 | 1 AMD = 3.92 INR |
+| AFN             | Afghanistan                 | 1 AFN = 0.72 INR |
+| ALL             | Albania                 | 1 ALL = 0.94 INR |
+| AMD             | Armenia                 | 1 AMD = 3.94 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
 | AOA             | Angola                 | 1 AOA = 9.16 INR |
 | ARS             | Argentina                 | 1 ARS = 10.64 INR |
@@ -26,7 +26,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | BDT             | Bangladesh                 | 1 BDT = 1.21 INR |
 | BGN             | Bulgaria                 | 1 BGN = 0.02 INR |
 | BHD             | Bahrain                 | 1 BHD = 0.00 INR |
-| BIF             | Burundi                 | 1 BIF = 29.52 INR |
+| BIF             | Burundi                 | 1 BIF = 29.14 INR |
 | BMD             | Bermuda                 | 1 BMD = 0.01 INR |
 | BND             | Brunei                 | 1 BND = 0.01 INR |
 | BOB             | Bolivia                 | 1 BOB = 0.07 INR |
@@ -39,25 +39,25 @@ This repository **automatically updates** the exchange rates of various currenci
 | BYR             | Belarus (Old Currency)                 | 1 BYR = 196.00 INR |
 | BZD             | Belize                 | 1 BZD = 0.02 INR |
 | CAD             | Canada                 | 1 CAD = 0.01 INR |
-| CDF             | Democratic Republic of the Congo                 | 1 CDF = 28.70 INR |
+| CDF             | Democratic Republic of the Congo                 | 1 CDF = 28.75 INR |
 | CHF             | Switzerland                 | 1 CHF = 0.01 INR |
 | CLF             | Chile                 | 1 CLF = 0.00 INR |
-| CLP             | Chile                 | 1 CLP = 9.51 INR |
+| CLP             | Chile                 | 1 CLP = 9.48 INR |
 | CNH             | China (Offshore Yuan)                 | 1 CNH = 0.07 INR |
 | CNY             | China                 | 1 CNY = 0.07 INR |
-| COP             | Colombia                 | 1 COP = 41.26 INR |
+| COP             | Colombia                 | 1 COP = 41.66 INR |
 | CRC             | Costa Rica                 | 1 CRC = 5.03 INR |
 | CUC             | Cuba (Convertible Peso)                 | 1 CUC = 0.01 INR |
 | CUP             | Cuba                 | 1 CUP = 0.27 INR |
-| CVE             | Cape Verde                 | 1 CVE = 1.05 INR |
+| CVE             | Cape Verde                 | 1 CVE = 1.06 INR |
 | CZK             | Czech Republic                 | 1 CZK = 0.24 INR |
-| DJF             | Djibouti                 | 1 DJF = 1.77 INR |
+| DJF             | Djibouti                 | 1 DJF = 1.78 INR |
 | DKK             | Denmark                 | 1 DKK = 0.07 INR |
 | DOP             | Dominican Republic                 | 1 DOP = 0.62 INR |
 | DZD             | Algeria                 | 1 DZD = 1.35 INR |
 | EGP             | Egypt                 | 1 EGP = 0.51 INR |
 | ERN             | Eritrea                 | 1 ERN = 0.15 INR |
-| ETB             | Ethiopia                 | 1 ETB = 1.26 INR |
+| ETB             | Ethiopia                 | 1 ETB = 1.29 INR |
 | EUR             | European Union                 | 1 EUR = 0.01 INR |
 | FJD             | Fiji                 | 1 FJD = 0.02 INR |
 | FKP             | Falkland Islands                 | 1 FKP = 0.01 INR |
@@ -85,7 +85,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | JEP             | Jersey                 | 1 JEP = 0.01 INR |
 | JMD             | Jamaica                 | 1 JMD = 1.57 INR |
 | JOD             | Jordan                 | 1 JOD = 0.01 INR |
-| JPY             | Japan                 | 1 JPY = 1.49 INR |
+| JPY             | Japan                 | 1 JPY = 1.48 INR |
 | KES             | Kenya                 | 1 KES = 1.29 INR |
 | KGS             | Kyrgyzstan                 | 1 KGS = 0.88 INR |
 | KHR             | Cambodia                 | 1 KHR = 40.26 INR |
