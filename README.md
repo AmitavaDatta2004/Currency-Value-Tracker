@@ -7,12 +7,12 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-03-03 16:22:12 UTC**
+## 📅 Last Updated: **2025-03-04 01:25:11 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
 | AED             | United Arab Emirates                 | 1 AED = 0.04 INR |
-| AFN             | Afghanistan                 | 1 AFN = 0.74 INR |
+| AFN             | Afghanistan                 | 1 AFN = 0.73 INR |
 | ALL             | Albania                 | 1 ALL = 0.95 INR |
 | AMD             | Armenia                 | 1 AMD = 3.94 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
@@ -26,7 +26,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | BDT             | Bangladesh                 | 1 BDT = 1.21 INR |
 | BGN             | Bulgaria                 | 1 BGN = 0.02 INR |
 | BHD             | Bahrain                 | 1 BHD = 0.00 INR |
-| BIF             | Burundi                 | 1 BIF = 29.58 INR |
+| BIF             | Burundi                 | 1 BIF = 29.12 INR |
 | BMD             | Bermuda                 | 1 BMD = 0.01 INR |
 | BND             | Brunei                 | 1 BND = 0.01 INR |
 | BOB             | Bolivia                 | 1 BOB = 0.07 INR |
@@ -39,17 +39,17 @@ This repository **automatically updates** the exchange rates of various currenci
 | BYR             | Belarus (Old Currency)                 | 1 BYR = 196.00 INR |
 | BZD             | Belize                 | 1 BZD = 0.02 INR |
 | CAD             | Canada                 | 1 CAD = 0.01 INR |
-| CDF             | Democratic Republic of the Congo                 | 1 CDF = 28.72 INR |
+| CDF             | Democratic Republic of the Congo                 | 1 CDF = 28.70 INR |
 | CHF             | Switzerland                 | 1 CHF = 0.01 INR |
 | CLF             | Chile                 | 1 CLF = 0.00 INR |
-| CLP             | Chile                 | 1 CLP = 9.55 INR |
+| CLP             | Chile                 | 1 CLP = 9.51 INR |
 | CNH             | China (Offshore Yuan)                 | 1 CNH = 0.07 INR |
 | CNY             | China                 | 1 CNY = 0.07 INR |
-| COP             | Colombia                 | 1 COP = 41.21 INR |
+| COP             | Colombia                 | 1 COP = 41.26 INR |
 | CRC             | Costa Rica                 | 1 CRC = 5.04 INR |
 | CUC             | Cuba (Convertible Peso)                 | 1 CUC = 0.01 INR |
 | CUP             | Cuba                 | 1 CUP = 0.27 INR |
-| CVE             | Cape Verde                 | 1 CVE = 1.05 INR |
+| CVE             | Cape Verde                 | 1 CVE = 1.07 INR |
 | CZK             | Czech Republic                 | 1 CZK = 0.24 INR |
 | DJF             | Djibouti                 | 1 DJF = 1.78 INR |
 | DKK             | Denmark                 | 1 DKK = 0.07 INR |
@@ -57,7 +57,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | DZD             | Algeria                 | 1 DZD = 1.35 INR |
 | EGP             | Egypt                 | 1 EGP = 0.51 INR |
 | ERN             | Eritrea                 | 1 ERN = 0.15 INR |
-| ETB             | Ethiopia                 | 1 ETB = 1.26 INR |
+| ETB             | Ethiopia                 | 1 ETB = 1.29 INR |
 | EUR             | European Union                 | 1 EUR = 0.01 INR |
 | FJD             | Fiji                 | 1 FJD = 0.02 INR |
 | FKP             | Falkland Islands                 | 1 FKP = 0.01 INR |
@@ -85,7 +85,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | JEP             | Jersey                 | 1 JEP = 0.01 INR |
 | JMD             | Jamaica                 | 1 JMD = 1.57 INR |
 | JOD             | Jordan                 | 1 JOD = 0.01 INR |
-| JPY             | Japan                 | 1 JPY = 1.50 INR |
+| JPY             | Japan                 | 1 JPY = 1.49 INR |
 | KES             | Kenya                 | 1 KES = 1.29 INR |
 | KGS             | Kyrgyzstan                 | 1 KGS = 0.87 INR |
 | KHR             | Cambodia                 | 1 KHR = 40.09 INR |
@@ -114,7 +114,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | MUR             | Mauritius                 | 1 MUR = 0.47 INR |
 | MVR             | Maldives                 | 1 MVR = 0.15 INR |
 | MWK             | Malawi                 | 1 MWK = 17.34 INR |
-| MXN             | Mexico                 | 1 MXN = 0.20 INR |
+| MXN             | Mexico                 | 1 MXN = 0.21 INR |
 | MYR             | Malaysia                 | 1 MYR = 0.04 INR |
 | MZN             | Mozambique                 | 1 MZN = 0.64 INR |
 | NAD             | Namibia                 | 1 NAD = 0.19 INR |
