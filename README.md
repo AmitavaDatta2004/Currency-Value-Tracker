@@ -7,14 +7,14 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-03-12 08:25:10 UTC**
+## 📅 Last Updated: **2025-03-12 16:24:12 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
 | AED             | United Arab Emirates                 | 1 AED = 0.04 INR |
 | AFN             | Afghanistan                 | 1 AFN = 0.71 INR |
 | ALL             | Albania                 | 1 ALL = 0.91 INR |
-| AMD             | Armenia                 | 1 AMD = 3.96 INR |
+| AMD             | Armenia                 | 1 AMD = 3.93 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
 | AOA             | Angola                 | 1 AOA = 9.12 INR |
 | ARS             | Argentina                 | 1 ARS = 10.66 INR |
@@ -23,10 +23,10 @@ This repository **automatically updates** the exchange rates of various currenci
 | AZN             | Azerbaijan                 | 1 AZN = 0.02 INR |
 | BAM             | Bosnia and Herzegovina                 | 1 BAM = 0.02 INR |
 | BBD             | Barbados                 | 1 BBD = 0.02 INR |
-| BDT             | Bangladesh                 | 1 BDT = 1.21 INR |
+| BDT             | Bangladesh                 | 1 BDT = 1.22 INR |
 | BGN             | Bulgaria                 | 1 BGN = 0.02 INR |
 | BHD             | Bahrain                 | 1 BHD = 0.00 INR |
-| BIF             | Burundi                 | 1 BIF = 29.62 INR |
+| BIF             | Burundi                 | 1 BIF = 29.65 INR |
 | BMD             | Bermuda                 | 1 BMD = 0.01 INR |
 | BND             | Brunei                 | 1 BND = 0.01 INR |
 | BOB             | Bolivia                 | 1 BOB = 0.07 INR |
@@ -42,11 +42,11 @@ This repository **automatically updates** the exchange rates of various currenci
 | CDF             | Democratic Republic of the Congo                 | 1 CDF = 28.75 INR |
 | CHF             | Switzerland                 | 1 CHF = 0.01 INR |
 | CLF             | Chile                 | 1 CLF = 0.00 INR |
-| CLP             | Chile                 | 1 CLP = 9.38 INR |
+| CLP             | Chile                 | 1 CLP = 9.39 INR |
 | CNH             | China (Offshore Yuan)                 | 1 CNH = 0.07 INR |
 | CNY             | China                 | 1 CNY = 0.07 INR |
-| COP             | Colombia                 | 1 COP = 41.25 INR |
-| CRC             | Costa Rica                 | 1 CRC = 5.02 INR |
+| COP             | Colombia                 | 1 COP = 41.08 INR |
+| CRC             | Costa Rica                 | 1 CRC = 5.00 INR |
 | CUC             | Cuba (Convertible Peso)                 | 1 CUC = 0.01 INR |
 | CUP             | Cuba                 | 1 CUP = 0.27 INR |
 | CVE             | Cape Verde                 | 1 CVE = 1.01 INR |
