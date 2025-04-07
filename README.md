@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-04-07 01:38:04 UTC**
+## 📅 Last Updated: **2025-04-07 08:26:04 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -17,7 +17,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | AMD             | Armenia                 | 1 AMD = 3.93 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
 | AOA             | Angola                 | 1 AOA = 9.16 INR |
-| ARS             | Argentina                 | 1 ARS = 10.82 INR |
+| ARS             | Argentina                 | 1 ARS = 10.74 INR |
 | AUD             | Australia                 | 1 AUD = 0.02 INR |
 | AWG             | Aruba                 | 1 AWG = 0.02 INR |
 | AZN             | Azerbaijan                 | 1 AZN = 0.02 INR |
@@ -55,7 +55,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | DKK             | Denmark                 | 1 DKK = 0.07 INR |
 | DOP             | Dominican Republic                 | 1 DOP = 0.64 INR |
 | DZD             | Algeria                 | 1 DZD = 1.33 INR |
-| EGP             | Egypt                 | 1 EGP = 0.51 INR |
+| EGP             | Egypt                 | 1 EGP = 0.52 INR |
 | ERN             | Eritrea                 | 1 ERN = 0.15 INR |
 | ETB             | Ethiopia                 | 1 ETB = 1.33 INR |
 | EUR             | European Union                 | 1 EUR = 0.01 INR |
@@ -74,8 +74,8 @@ This repository **automatically updates** the exchange rates of various currenci
 | HNL             | Honduras                 | 1 HNL = 0.26 INR |
 | HRK             | Croatia                 | 1 HRK = 0.07 INR |
 | HTG             | Haiti                 | 1 HTG = 1.32 INR |
-| HUF             | Hungary                 | 1 HUF = 3.71 INR |
-| IDR             | Indonesia                 | 1 IDR = 172.13 INR |
+| HUF             | Hungary                 | 1 HUF = 3.72 INR |
+| IDR             | Indonesia                 | 1 IDR = 170.16 INR |
 | ILS             | Israel                 | 1 ILS = 0.04 INR |
 | IMP             | Isle of Man                 | 1 IMP = 0.01 INR |
 | INR             | India                 | 1 INR = 0.86 INR |
@@ -86,12 +86,12 @@ This repository **automatically updates** the exchange rates of various currenci
 | JMD             | Jamaica                 | 1 JMD = 1.59 INR |
 | JOD             | Jordan                 | 1 JOD = 0.01 INR |
 | JPY             | Japan                 | 1 JPY = 1.46 INR |
-| KES             | Kenya                 | 1 KES = 1.30 INR |
+| KES             | Kenya                 | 1 KES = 1.29 INR |
 | KGS             | Kyrgyzstan                 | 1 KGS = 0.87 INR |
 | KHR             | Cambodia                 | 1 KHR = 40.28 INR |
-| KMF             | Comoros                 | 1 KMF = 4.50 INR |
+| KMF             | Comoros                 | 1 KMF = 4.51 INR |
 | KPW             | North Korea                 | 1 KPW = 9.00 INR |
-| KRW             | South Korea                 | 1 KRW = 14.67 INR |
+| KRW             | South Korea                 | 1 KRW = 14.65 INR |
 | KWD             | Kuwait                 | 1 KWD = 0.00 INR |
 | KYD             | Cayman Islands                 | 1 KYD = 0.01 INR |
 | KZT             | Kazakhstan                 | 1 KZT = 5.10 INR |
@@ -107,8 +107,8 @@ This repository **automatically updates** the exchange rates of various currenci
 | MDL             | Moldova                 | 1 MDL = 0.18 INR |
 | MGA             | Madagascar                 | 1 MGA = 46.66 INR |
 | MKD             | North Macedonia                 | 1 MKD = 0.56 INR |
-| MMK             | Myanmar (Burma)                 | 1 MMK = 20.99 INR |
-| MNT             | Mongolia                 | 1 MNT = 35.08 INR |
+| MMK             | Myanmar (Burma)                 | 1 MMK = 21.00 INR |
+| MNT             | Mongolia                 | 1 MNT = 35.09 INR |
 | MOP             | Macau                 | 1 MOP = 0.08 INR |
 | MRU             | Mauritania                 | 1 MRU = 0.40 INR |
 | MUR             | Mauritius                 | 1 MUR = 0.45 INR |
@@ -118,7 +118,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | MYR             | Malaysia                 | 1 MYR = 0.04 INR |
 | MZN             | Mozambique                 | 1 MZN = 0.64 INR |
 | NAD             | Namibia                 | 1 NAD = 0.19 INR |
-| NGN             | Nigeria                 | 1 NGN = 15.46 INR |
+| NGN             | Nigeria                 | 1 NGN = 15.45 INR |
 | NIO             | Nicaragua                 | 1 NIO = 0.37 INR |
 | NOK             | Norway                 | 1 NOK = 0.11 INR |
 | NPR             | Nepal                 | 1 NPR = 1.37 INR |
@@ -134,7 +134,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | QAR             | Qatar                 | 1 QAR = 0.04 INR |
 | RON             | Romania                 | 1 RON = 0.05 INR |
 | RSD             | Serbia                 | 1 RSD = 1.07 INR |
-| RUB             | Russia                 | 1 RUB = 0.85 INR |
+| RUB             | Russia                 | 1 RUB = 0.86 INR |
 | RWF             | Rwanda                 | 1 RWF = 14.50 INR |
 | SAR             | Saudi Arabia                 | 1 SAR = 0.04 INR |
 | SBD             | Solomon Islands                 | 1 SBD = 0.08 INR |
