@@ -7,14 +7,14 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-04-17 08:26:11 UTC**
+## 📅 Last Updated: **2025-04-17 16:25:12 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
 | AED             | United Arab Emirates                 | 1 AED = 0.04 INR |
 | AFN             | Afghanistan                 | 1 AFN = 0.72 INR |
 | ALL             | Albania                 | 1 ALL = 0.87 INR |
-| AMD             | Armenia                 | 1 AMD = 3.90 INR |
+| AMD             | Armenia                 | 1 AMD = 3.91 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
 | AOA             | Angola                 | 1 AOA = 9.12 INR |
 | ARS             | Argentina                 | 1 ARS = 11.38 INR |
@@ -26,27 +26,27 @@ This repository **automatically updates** the exchange rates of various currenci
 | BDT             | Bangladesh                 | 1 BDT = 1.21 INR |
 | BGN             | Bulgaria                 | 1 BGN = 0.02 INR |
 | BHD             | Bahrain                 | 1 BHD = 0.00 INR |
-| BIF             | Burundi                 | 1 BIF = 29.71 INR |
+| BIF             | Burundi                 | 1 BIF = 29.30 INR |
 | BMD             | Bermuda                 | 1 BMD = 0.01 INR |
 | BND             | Brunei                 | 1 BND = 0.01 INR |
 | BOB             | Bolivia                 | 1 BOB = 0.07 INR |
 | BRL             | Brazil                 | 1 BRL = 0.06 INR |
 | BSD             | Bahamas                 | 1 BSD = 0.01 INR |
 | BTC             | Bitcoin                 | 1 BTC = 0.00 INR |
-| BTN             | Bhutan                 | 1 BTN = 0.86 INR |
+| BTN             | Bhutan                 | 1 BTN = 0.85 INR |
 | BWP             | Botswana                 | 1 BWP = 0.14 INR |
 | BYN             | Belarus                 | 1 BYN = 0.03 INR |
 | BYR             | Belarus (Old Currency)                 | 1 BYR = 196.00 INR |
 | BZD             | Belize                 | 1 BZD = 0.02 INR |
 | CAD             | Canada                 | 1 CAD = 0.01 INR |
-| CDF             | Democratic Republic of the Congo                 | 1 CDF = 28.75 INR |
+| CDF             | Democratic Republic of the Congo                 | 1 CDF = 28.77 INR |
 | CHF             | Switzerland                 | 1 CHF = 0.01 INR |
 | CLF             | Chile                 | 1 CLF = 0.00 INR |
-| CLP             | Chile                 | 1 CLP = 9.69 INR |
+| CLP             | Chile                 | 1 CLP = 9.67 INR |
 | CNH             | China (Offshore Yuan)                 | 1 CNH = 0.07 INR |
 | CNY             | China                 | 1 CNY = 0.07 INR |
 | COP             | Colombia                 | 1 COP = 43.12 INR |
-| CRC             | Costa Rica                 | 1 CRC = 5.03 INR |
+| CRC             | Costa Rica                 | 1 CRC = 5.02 INR |
 | CUC             | Cuba (Convertible Peso)                 | 1 CUC = 0.01 INR |
 | CUP             | Cuba                 | 1 CUP = 0.27 INR |
 | CVE             | Cape Verde                 | 1 CVE = 0.97 INR |
@@ -85,7 +85,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | JEP             | Jersey                 | 1 JEP = 0.01 INR |
 | JMD             | Jamaica                 | 1 JMD = 1.58 INR |
 | JOD             | Jordan                 | 1 JOD = 0.01 INR |
-| JPY             | Japan                 | 1 JPY = 1.43 INR |
+| JPY             | Japan                 | 1 JPY = 1.42 INR |
 | KES             | Kenya                 | 1 KES = 1.30 INR |
 | KGS             | Kyrgyzstan                 | 1 KGS = 0.87 INR |
 | KHR             | Cambodia                 | 1 KHR = 40.03 INR |
@@ -120,7 +120,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | NAD             | Namibia                 | 1 NAD = 0.19 INR |
 | NGN             | Nigeria                 | 1 NGN = 16.06 INR |
 | NIO             | Nicaragua                 | 1 NIO = 0.37 INR |
-| NOK             | Norway                 | 1 NOK = 0.11 INR |
+| NOK             | Norway                 | 1 NOK = 0.10 INR |
 | NPR             | Nepal                 | 1 NPR = 1.37 INR |
 | NZD             | New Zealand                 | 1 NZD = 0.02 INR |
 | OMR             | Oman                 | 1 OMR = 0.00 INR |
