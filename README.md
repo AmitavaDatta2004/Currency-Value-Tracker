@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-05-04 08:23:14 UTC**
+## 📅 Last Updated: **2025-05-04 16:22:04 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -156,7 +156,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | TMT             | Turkmenistan                 | 1 TMT = 0.04 INR |
 | TND             | Tunisia                 | 1 TND = 0.03 INR |
 | TOP             | Tonga                 | 1 TOP = 0.02 INR |
-| TRY             | Turkey                 | 1 TRY = 0.39 INR |
+| TRY             | Turkey                 | 1 TRY = 0.38 INR |
 | TTD             | Trinidad and Tobago                 | 1 TTD = 0.07 INR |
 | TWD             | Taiwan                 | 1 TWD = 0.31 INR |
 | TZS             | Tanzania                 | 1 TZS = 26.99 INR |
