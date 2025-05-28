@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-05-28 01:43:05 UTC**
+## 📅 Last Updated: **2025-05-28 08:27:14 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -74,8 +74,8 @@ This repository **automatically updates** the exchange rates of various currenci
 | HNL             | Honduras                 | 1 HNL = 0.26 INR |
 | HRK             | Croatia                 | 1 HRK = 0.07 INR |
 | HTG             | Haiti                 | 1 HTG = 1.31 INR |
-| HUF             | Hungary                 | 1 HUF = 3.57 INR |
-| IDR             | Indonesia                 | 1 IDR = 162.83 INR |
+| HUF             | Hungary                 | 1 HUF = 3.56 INR |
+| IDR             | Indonesia                 | 1 IDR = 163.07 INR |
 | ILS             | Israel                 | 1 ILS = 0.04 INR |
 | IMP             | Isle of Man                 | 1 IMP = 0.01 INR |
 | INR             | India                 | 1 INR = 0.85 INR |
@@ -108,17 +108,17 @@ This repository **automatically updates** the exchange rates of various currenci
 | MGA             | Madagascar                 | 1 MGA = 45.70 INR |
 | MKD             | North Macedonia                 | 1 MKD = 0.54 INR |
 | MMK             | Myanmar (Burma)                 | 1 MMK = 21.00 INR |
-| MNT             | Mongolia                 | 1 MNT = 35.77 INR |
+| MNT             | Mongolia                 | 1 MNT = 35.76 INR |
 | MOP             | Macau                 | 1 MOP = 0.08 INR |
 | MRU             | Mauritania                 | 1 MRU = 0.40 INR |
-| MUR             | Mauritius                 | 1 MUR = 0.45 INR |
+| MUR             | Mauritius                 | 1 MUR = 0.46 INR |
 | MVR             | Maldives                 | 1 MVR = 0.15 INR |
 | MWK             | Malawi                 | 1 MWK = 17.35 INR |
 | MXN             | Mexico                 | 1 MXN = 0.19 INR |
 | MYR             | Malaysia                 | 1 MYR = 0.04 INR |
 | MZN             | Mozambique                 | 1 MZN = 0.64 INR |
 | NAD             | Namibia                 | 1 NAD = 0.18 INR |
-| NGN             | Nigeria                 | 1 NGN = 15.85 INR |
+| NGN             | Nigeria                 | 1 NGN = 15.86 INR |
 | NIO             | Nicaragua                 | 1 NIO = 0.37 INR |
 | NOK             | Norway                 | 1 NOK = 0.10 INR |
 | NPR             | Nepal                 | 1 NPR = 1.37 INR |
@@ -127,13 +127,13 @@ This repository **automatically updates** the exchange rates of various currenci
 | PAB             | Panama                 | 1 PAB = 0.01 INR |
 | PEN             | Peru                 | 1 PEN = 0.04 INR |
 | PGK             | Papua New Guinea                 | 1 PGK = 0.04 INR |
-| PHP             | Philippines                 | 1 PHP = 0.56 INR |
+| PHP             | Philippines                 | 1 PHP = 0.55 INR |
 | PKR             | Pakistan                 | 1 PKR = 2.83 INR |
 | PLN             | Poland                 | 1 PLN = 0.04 INR |
 | PYG             | Paraguay                 | 1 PYG = 79.97 INR |
 | QAR             | Qatar                 | 1 QAR = 0.04 INR |
 | RON             | Romania                 | 1 RON = 0.04 INR |
-| RSD             | Serbia                 | 1 RSD = 1.03 INR |
+| RSD             | Serbia                 | 1 RSD = 1.04 INR |
 | RUB             | Russia                 | 1 RUB = 0.80 INR |
 | RWF             | Rwanda                 | 1 RWF = 14.20 INR |
 | SAR             | Saudi Arabia                 | 1 SAR = 0.04 INR |
@@ -165,7 +165,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | UYU             | Uruguay                 | 1 UYU = 0.42 INR |
 | UZS             | Uzbekistan                 | 1 UZS = 129.51 INR |
 | VES             | Unknown Country                 | 1 VES = 0.95 INR |
-| VND             | Vietnam                 | 1 VND = 259.24 INR |
+| VND             | Vietnam                 | 1 VND = 259.55 INR |
 | VUV             | Vanuatu                 | 1 VUV = 1.21 INR |
 | WST             | Samoa                 | 1 WST = 0.03 INR |
 | XAF             | Unknown Country                 | 1 XAF = 5.79 INR |
