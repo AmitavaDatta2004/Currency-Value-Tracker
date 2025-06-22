@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-06-22 08:25:04 UTC**
+## 📅 Last Updated: **2025-06-22 16:23:04 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -176,7 +176,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | XOF             | West African CFA Franc (XOF)                 | 1 XOF = 5.69 INR |
 | XPF             | CFP Franc                 | 1 XPF = 1.03 INR |
 | YER             | Yemen                 | 1 YER = 2.43 INR |
-| ZAR             | South Africa                 | 1 ZAR = 0.19 INR |
+| ZAR             | South Africa                 | 1 ZAR = 0.18 INR |
 | ZMK             | Zambia (Old Currency)                 | 1 ZMK = 90.01 INR |
 | ZMW             | Zambia                 | 1 ZMW = 0.23 INR |
 | ZWL             | Zimbabwe                 | 1 ZWL = 3.22 INR |
