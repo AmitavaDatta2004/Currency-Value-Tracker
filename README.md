@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-06-29 01:56:16 UTC**
+## 📅 Last Updated: **2025-06-29 08:26:05 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -166,7 +166,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | UZS             | Uzbekistan                 | 1 UZS = 125.78 INR |
 | VES             | Unknown Country                 | 1 VES = 1.07 INR |
 | VND             | Vietnam                 | 1 VND = 260.95 INR |
-| VUV             | Vanuatu                 | 1 VUV = 1.20 INR |
+| VUV             | Vanuatu                 | 1 VUV = 1.19 INR |
 | WST             | Samoa                 | 1 WST = 0.03 INR |
 | XAF             | Unknown Country                 | 1 XAF = 5.60 INR |
 | XAG             | Unknown Country                 | 1 XAG = 0.00 INR |
