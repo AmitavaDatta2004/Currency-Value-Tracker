@@ -7,14 +7,14 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-07-26 01:49:05 UTC**
+## 📅 Last Updated: **2025-07-26 08:27:04 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
 | AED             | United Arab Emirates                 | 1 AED = 0.04 INR |
 | AFN             | Afghanistan                 | 1 AFN = 0.69 INR |
 | ALL             | Albania                 | 1 ALL = 0.83 INR |
-| AMD             | Armenia                 | 1 AMD = 3.84 INR |
+| AMD             | Armenia                 | 1 AMD = 3.83 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
 | AOA             | Angola                 | 1 AOA = 9.17 INR |
 | ARS             | Argentina                 | 1 ARS = 12.71 INR |
@@ -42,10 +42,10 @@ This repository **automatically updates** the exchange rates of various currenci
 | CDF             | Democratic Republic of the Congo                 | 1 CDF = 28.89 INR |
 | CHF             | Switzerland                 | 1 CHF = 0.01 INR |
 | CLF             | Chile                 | 1 CLF = 0.00 INR |
-| CLP             | Chile                 | 1 CLP = 9.57 INR |
+| CLP             | Chile                 | 1 CLP = 9.49 INR |
 | CNH             | China (Offshore Yuan)                 | 1 CNH = 0.07 INR |
 | CNY             | China                 | 1 CNY = 0.07 INR |
-| COP             | Colombia                 | 1 COP = 41.08 INR |
+| COP             | Colombia                 | 1 COP = 40.65 INR |
 | CRC             | Costa Rica                 | 1 CRC = 5.04 INR |
 | CUC             | Cuba (Convertible Peso)                 | 1 CUC = 0.01 INR |
 | CUP             | Cuba                 | 1 CUP = 0.27 INR |
@@ -54,7 +54,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | DJF             | Djibouti                 | 1 DJF = 1.78 INR |
 | DKK             | Denmark                 | 1 DKK = 0.06 INR |
 | DOP             | Dominican Republic                 | 1 DOP = 0.61 INR |
-| DZD             | Algeria                 | 1 DZD = 1.30 INR |
+| DZD             | Algeria                 | 1 DZD = 1.29 INR |
 | EGP             | Egypt                 | 1 EGP = 0.49 INR |
 | ERN             | Eritrea                 | 1 ERN = 0.15 INR |
 | ETB             | Ethiopia                 | 1 ETB = 1.39 INR |
@@ -162,7 +162,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | TWD             | Taiwan                 | 1 TWD = 0.29 INR |
 | TZS             | Tanzania                 | 1 TZS = 25.58 INR |
 | UAH             | Ukraine                 | 1 UAH = 0.42 INR |
-| UGX             | Uganda                 | 1 UGX = 35.88 INR |
+| UGX             | Uganda                 | 1 UGX = 35.79 INR |
 | UYU             | Uruguay                 | 1 UYU = 0.40 INR |
 | UZS             | Uzbekistan                 | 1 UZS = 126.31 INR |
 | VES             | Unknown Country                 | 1 VES = 1.20 INR |
