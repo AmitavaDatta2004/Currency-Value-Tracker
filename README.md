@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-08-01 02:05:19 UTC**
+## 📅 Last Updated: **2025-08-01 08:30:16 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -74,11 +74,11 @@ This repository **automatically updates** the exchange rates of various currenci
 | HNL             | Honduras                 | 1 HNL = 0.26 INR |
 | HRK             | Croatia                 | 1 HRK = 0.07 INR |
 | HTG             | Haiti                 | 1 HTG = 1.31 INR |
-| HUF             | Hungary                 | 1 HUF = 3.51 INR |
-| IDR             | Indonesia                 | 1 IDR = 165.15 INR |
+| HUF             | Hungary                 | 1 HUF = 3.50 INR |
+| IDR             | Indonesia                 | 1 IDR = 165.22 INR |
 | ILS             | Israel                 | 1 ILS = 0.03 INR |
 | IMP             | Isle of Man                 | 1 IMP = 0.01 INR |
-| INR             | India                 | 1 INR = 0.88 INR |
+| INR             | India                 | 1 INR = 0.87 INR |
 | IQD             | Iraq                 | 1 IQD = 13.10 INR |
 | IRR             | Iran                 | 1 IRR = 421.12 INR |
 | ISK             | Iceland                 | 1 ISK = 1.25 INR |
@@ -89,9 +89,9 @@ This repository **automatically updates** the exchange rates of various currenci
 | KES             | Kenya                 | 1 KES = 1.29 INR |
 | KGS             | Kyrgyzstan                 | 1 KGS = 0.87 INR |
 | KHR             | Cambodia                 | 1 KHR = 40.15 INR |
-| KMF             | Comoros                 | 1 KMF = 4.32 INR |
+| KMF             | Comoros                 | 1 KMF = 4.31 INR |
 | KPW             | North Korea                 | 1 KPW = 9.00 INR |
-| KRW             | South Korea                 | 1 KRW = 14.00 INR |
+| KRW             | South Korea                 | 1 KRW = 14.05 INR |
 | KWD             | Kuwait                 | 1 KWD = 0.00 INR |
 | KYD             | Cayman Islands                 | 1 KYD = 0.01 INR |
 | KZT             | Kazakhstan                 | 1 KZT = 5.40 INR |
@@ -118,7 +118,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | MYR             | Malaysia                 | 1 MYR = 0.04 INR |
 | MZN             | Mozambique                 | 1 MZN = 0.64 INR |
 | NAD             | Namibia                 | 1 NAD = 0.18 INR |
-| NGN             | Nigeria                 | 1 NGN = 15.30 INR |
+| NGN             | Nigeria                 | 1 NGN = 15.31 INR |
 | NIO             | Nicaragua                 | 1 NIO = 0.37 INR |
 | NOK             | Norway                 | 1 NOK = 0.10 INR |
 | NPR             | Nepal                 | 1 NPR = 1.40 INR |
@@ -134,18 +134,18 @@ This repository **automatically updates** the exchange rates of various currenci
 | QAR             | Qatar                 | 1 QAR = 0.04 INR |
 | RON             | Romania                 | 1 RON = 0.04 INR |
 | RSD             | Serbia                 | 1 RSD = 1.03 INR |
-| RUB             | Russia                 | 1 RUB = 0.81 INR |
+| RUB             | Russia                 | 1 RUB = 0.80 INR |
 | RWF             | Rwanda                 | 1 RWF = 14.40 INR |
 | SAR             | Saudi Arabia                 | 1 SAR = 0.04 INR |
 | SBD             | Solomon Islands                 | 1 SBD = 0.08 INR |
-| SCR             | Seychelles                 | 1 SCR = 0.14 INR |
+| SCR             | Seychelles                 | 1 SCR = 0.15 INR |
 | SDG             | Sudan                 | 1 SDG = 6.00 INR |
 | SEK             | Sweden                 | 1 SEK = 0.10 INR |
 | SGD             | Singapore                 | 1 SGD = 0.01 INR |
 | SHP             | Saint Helena                 | 1 SHP = 0.01 INR |
 | SLE             | Sierra Leone                 | 1 SLE = 0.23 INR |
 | SLL             | Sierra Leone (Old Currency)                 | 1 SLL = 209.70 INR |
-| SOS             | Somalia                 | 1 SOS = 5.72 INR |
+| SOS             | Somalia                 | 1 SOS = 5.71 INR |
 | SRD             | Suriname                 | 1 SRD = 0.37 INR |
 | STD             | São Tomé and Príncipe                 | 1 STD = 206.98 INR |
 | STN             | Unknown Country                 | 1 STN = 0.22 INR |
@@ -166,7 +166,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | UYU             | Uruguay                 | 1 UYU = 0.40 INR |
 | UZS             | Uzbekistan                 | 1 UZS = 126.05 INR |
 | VES             | Unknown Country                 | 1 VES = 1.24 INR |
-| VND             | Vietnam                 | 1 VND = 261.95 INR |
+| VND             | Vietnam                 | 1 VND = 262.12 INR |
 | VUV             | Vanuatu                 | 1 VUV = 1.19 INR |
 | WST             | Samoa                 | 1 WST = 0.03 INR |
 | XAF             | Unknown Country                 | 1 XAF = 5.73 INR |
