@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-10-16 01:37:04 UTC**
+## 📅 Last Updated: **2025-10-16 08:28:05 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -17,7 +17,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | AMD             | Armenia                 | 1 AMD = 3.83 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
 | AOA             | Angola                 | 1 AOA = 9.17 INR |
-| ARS             | Argentina                 | 1 ARS = 13.61 INR |
+| ARS             | Argentina                 | 1 ARS = 13.62 INR |
 | AUD             | Australia                 | 1 AUD = 0.02 INR |
 | AWG             | Aruba                 | 1 AWG = 0.02 INR |
 | AZN             | Azerbaijan                 | 1 AZN = 0.02 INR |
@@ -75,7 +75,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | HRK             | Croatia                 | 1 HRK = 0.06 INR |
 | HTG             | Haiti                 | 1 HTG = 1.31 INR |
 | HUF             | Hungary                 | 1 HUF = 3.35 INR |
-| IDR             | Indonesia                 | 1 IDR = 165.84 INR |
+| IDR             | Indonesia                 | 1 IDR = 165.82 INR |
 | ILS             | Israel                 | 1 ILS = 0.03 INR |
 | IMP             | Isle of Man                 | 1 IMP = 0.01 INR |
 | INR             | India                 | 1 INR = 0.88 INR |
@@ -91,11 +91,11 @@ This repository **automatically updates** the exchange rates of various currenci
 | KHR             | Cambodia                 | 1 KHR = 40.16 INR |
 | KMF             | Comoros                 | 1 KMF = 4.24 INR |
 | KPW             | North Korea                 | 1 KPW = 9.00 INR |
-| KRW             | South Korea                 | 1 KRW = 14.18 INR |
+| KRW             | South Korea                 | 1 KRW = 14.17 INR |
 | KWD             | Kuwait                 | 1 KWD = 0.00 INR |
 | KYD             | Cayman Islands                 | 1 KYD = 0.01 INR |
 | KZT             | Kazakhstan                 | 1 KZT = 5.39 INR |
-| LAK             | Laos                 | 1 LAK = 216.98 INR |
+| LAK             | Laos                 | 1 LAK = 216.97 INR |
 | LBP             | Lebanon                 | 1 LBP = 895.50 INR |
 | LKR             | Sri Lanka                 | 1 LKR = 3.03 INR |
 | LRD             | Liberia                 | 1 LRD = 1.83 INR |
@@ -118,7 +118,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | MYR             | Malaysia                 | 1 MYR = 0.04 INR |
 | MZN             | Mozambique                 | 1 MZN = 0.64 INR |
 | NAD             | Namibia                 | 1 NAD = 0.17 INR |
-| NGN             | Nigeria                 | 1 NGN = 14.64 INR |
+| NGN             | Nigeria                 | 1 NGN = 14.67 INR |
 | NIO             | Nicaragua                 | 1 NIO = 0.37 INR |
 | NOK             | Norway                 | 1 NOK = 0.10 INR |
 | NPR             | Nepal                 | 1 NPR = 1.41 INR |
@@ -133,13 +133,13 @@ This repository **automatically updates** the exchange rates of various currenci
 | PYG             | Paraguay                 | 1 PYG = 70.53 INR |
 | QAR             | Qatar                 | 1 QAR = 0.04 INR |
 | RON             | Romania                 | 1 RON = 0.04 INR |
-| RSD             | Serbia                 | 1 RSD = 1.00 INR |
+| RSD             | Serbia                 | 1 RSD = 1.01 INR |
 | RUB             | Russia                 | 1 RUB = 0.79 INR |
 | RWF             | Rwanda                 | 1 RWF = 14.48 INR |
 | SAR             | Saudi Arabia                 | 1 SAR = 0.04 INR |
 | SBD             | Solomon Islands                 | 1 SBD = 0.08 INR |
-| SCR             | Seychelles                 | 1 SCR = 0.15 INR |
-| SDG             | Sudan                 | 1 SDG = 6.02 INR |
+| SCR             | Seychelles                 | 1 SCR = 0.14 INR |
+| SDG             | Sudan                 | 1 SDG = 6.01 INR |
 | SEK             | Sweden                 | 1 SEK = 0.09 INR |
 | SGD             | Singapore                 | 1 SGD = 0.01 INR |
 | SHP             | Saint Helena                 | 1 SHP = 0.01 INR |
@@ -152,7 +152,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | SVC             | El Salvador                 | 1 SVC = 0.09 INR |
 | SYP             | Syria                 | 1 SYP = 130.02 INR |
 | SZL             | Swaziland                 | 1 SZL = 0.17 INR |
-| THB             | Thailand                 | 1 THB = 0.32 INR |
+| THB             | Thailand                 | 1 THB = 0.33 INR |
 | TJS             | Tajikistan                 | 1 TJS = 0.09 INR |
 | TMT             | Turkmenistan                 | 1 TMT = 0.04 INR |
 | TND             | Tunisia                 | 1 TND = 0.03 INR |
@@ -160,13 +160,13 @@ This repository **automatically updates** the exchange rates of various currenci
 | TRY             | Turkey                 | 1 TRY = 0.42 INR |
 | TTD             | Trinidad and Tobago                 | 1 TTD = 0.07 INR |
 | TWD             | Taiwan                 | 1 TWD = 0.31 INR |
-| TZS             | Tanzania                 | 1 TZS = 24.49 INR |
+| TZS             | Tanzania                 | 1 TZS = 24.52 INR |
 | UAH             | Ukraine                 | 1 UAH = 0.42 INR |
 | UGX             | Uganda                 | 1 UGX = 34.51 INR |
 | UYU             | Uruguay                 | 1 UYU = 0.40 INR |
 | UZS             | Uzbekistan                 | 1 UZS = 122.38 INR |
 | VES             | Unknown Country                 | 1 VES = 2.01 INR |
-| VND             | Vietnam                 | 1 VND = 263.40 INR |
+| VND             | Vietnam                 | 1 VND = 263.35 INR |
 | VUV             | Vanuatu                 | 1 VUV = 1.23 INR |
 | WST             | Samoa                 | 1 WST = 0.03 INR |
 | XAF             | Unknown Country                 | 1 XAF = 5.63 INR |
