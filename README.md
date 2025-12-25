@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2025-12-24 16:27:03 UTC**
+## 📅 Last Updated: **2025-12-25 01:49:04 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -45,7 +45,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | CLP             | Chile                 | 1 CLP = 9.05 INR |
 | CNH             | China (Offshore Yuan)                 | 1 CNH = 0.07 INR |
 | CNY             | China                 | 1 CNY = 0.07 INR |
-| COP             | Colombia                 | 1 COP = 37.28 INR |
+| COP             | Colombia                 | 1 COP = 37.44 INR |
 | CRC             | Costa Rica                 | 1 CRC = 5.00 INR |
 | CUC             | Cuba (Convertible Peso)                 | 1 CUC = 0.01 INR |
 | CUP             | Cuba                 | 1 CUP = 0.27 INR |
@@ -54,7 +54,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | DJF             | Djibouti                 | 1 DJF = 1.78 INR |
 | DKK             | Denmark                 | 1 DKK = 0.06 INR |
 | DOP             | Dominican Republic                 | 1 DOP = 0.63 INR |
-| DZD             | Algeria                 | 1 DZD = 1.30 INR |
+| DZD             | Algeria                 | 1 DZD = 1.29 INR |
 | EGP             | Egypt                 | 1 EGP = 0.48 INR |
 | ERN             | Eritrea                 | 1 ERN = 0.15 INR |
 | ETB             | Ethiopia                 | 1 ETB = 1.56 INR |
@@ -66,7 +66,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | GGP             | Guernsey                 | 1 GGP = 0.01 INR |
 | GHS             | Ghana                 | 1 GHS = 0.11 INR |
 | GIP             | Gibraltar                 | 1 GIP = 0.01 INR |
-| GMD             | Gambia                 | 1 GMD = 0.75 INR |
+| GMD             | Gambia                 | 1 GMD = 0.74 INR |
 | GNF             | Guinea                 | 1 GNF = 87.41 INR |
 | GTQ             | Guatemala                 | 1 GTQ = 0.08 INR |
 | GYD             | Guyana                 | 1 GYD = 2.09 INR |
@@ -91,7 +91,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | KHR             | Cambodia                 | 1 KHR = 40.09 INR |
 | KMF             | Comoros                 | 1 KMF = 4.18 INR |
 | KPW             | North Korea                 | 1 KPW = 9.00 INR |
-| KRW             | South Korea                 | 1 KRW = 14.45 INR |
+| KRW             | South Korea                 | 1 KRW = 14.44 INR |
 | KWD             | Kuwait                 | 1 KWD = 0.00 INR |
 | KYD             | Cayman Islands                 | 1 KYD = 0.01 INR |
 | KZT             | Kazakhstan                 | 1 KZT = 5.14 INR |
@@ -139,7 +139,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | SAR             | Saudi Arabia                 | 1 SAR = 0.04 INR |
 | SBD             | Solomon Islands                 | 1 SBD = 0.08 INR |
 | SCR             | Seychelles                 | 1 SCR = 0.15 INR |
-| SDG             | Sudan                 | 1 SDG = 6.02 INR |
+| SDG             | Sudan                 | 1 SDG = 6.01 INR |
 | SEK             | Sweden                 | 1 SEK = 0.09 INR |
 | SGD             | Singapore                 | 1 SGD = 0.01 INR |
 | SHP             | Saint Helena                 | 1 SHP = 0.01 INR |
