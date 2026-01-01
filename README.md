@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-01-01 02:01:08 UTC**
+## 📅 Last Updated: **2026-01-01 08:31:06 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -107,7 +107,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | MDL             | Moldova                 | 1 MDL = 0.17 INR |
 | MGA             | Madagascar                 | 1 MGA = 45.93 INR |
 | MKD             | North Macedonia                 | 1 MKD = 0.52 INR |
-| MMK             | Myanmar (Burma)                 | 1 MMK = 21.00 INR |
+| MMK             | Myanmar (Burma)                 | 1 MMK = 21.02 INR |
 | MNT             | Mongolia                 | 1 MNT = 35.59 INR |
 | MOP             | Macau                 | 1 MOP = 0.08 INR |
 | MRU             | Mauritania                 | 1 MRU = 0.40 INR |
@@ -139,7 +139,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | SAR             | Saudi Arabia                 | 1 SAR = 0.04 INR |
 | SBD             | Solomon Islands                 | 1 SBD = 0.08 INR |
 | SCR             | Seychelles                 | 1 SCR = 0.14 INR |
-| SDG             | Sudan                 | 1 SDG = 6.01 INR |
+| SDG             | Sudan                 | 1 SDG = 6.02 INR |
 | SEK             | Sweden                 | 1 SEK = 0.09 INR |
 | SGD             | Singapore                 | 1 SGD = 0.01 INR |
 | SHP             | Saint Helena                 | 1 SHP = 0.01 INR |
@@ -150,7 +150,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | STD             | São Tomé and Príncipe                 | 1 STD = 206.98 INR |
 | STN             | Unknown Country                 | 1 STN = 0.21 INR |
 | SVC             | El Salvador                 | 1 SVC = 0.09 INR |
-| SYP             | Syria                 | 1 SYP = 110.59 INR |
+| SYP             | Syria                 | 1 SYP = 110.57 INR |
 | SZL             | Swaziland                 | 1 SZL = 0.17 INR |
 | THB             | Thailand                 | 1 THB = 0.31 INR |
 | TJS             | Tajikistan                 | 1 TJS = 0.09 INR |
