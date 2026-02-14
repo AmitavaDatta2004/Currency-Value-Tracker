@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-02-14 08:34:06 UTC**
+## 📅 Last Updated: **2026-02-14 16:32:07 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -138,7 +138,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | RWF             | Rwanda                 | 1 RWF = 14.58 INR |
 | SAR             | Saudi Arabia                 | 1 SAR = 0.04 INR |
 | SBD             | Solomon Islands                 | 1 SBD = 0.08 INR |
-| SCR             | Seychelles                 | 1 SCR = 0.14 INR |
+| SCR             | Seychelles                 | 1 SCR = 0.13 INR |
 | SDG             | Sudan                 | 1 SDG = 6.02 INR |
 | SEK             | Sweden                 | 1 SEK = 0.09 INR |
 | SGD             | Singapore                 | 1 SGD = 0.01 INR |
