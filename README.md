@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-03-28 02:25:08 UTC**
+## 📅 Last Updated: **2026-03-28 08:41:07 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -107,8 +107,8 @@ This repository **automatically updates** the exchange rates of various currenci
 | MDL             | Moldova                 | 1 MDL = 0.18 INR |
 | MGA             | Madagascar                 | 1 MGA = 41.75 INR |
 | MKD             | North Macedonia                 | 1 MKD = 0.53 INR |
-| MMK             | Myanmar (Burma)                 | 1 MMK = 21.03 INR |
-| MNT             | Mongolia                 | 1 MNT = 35.80 INR |
+| MMK             | Myanmar (Burma)                 | 1 MMK = 21.02 INR |
+| MNT             | Mongolia                 | 1 MNT = 35.72 INR |
 | MOP             | Macau                 | 1 MOP = 0.08 INR |
 | MRU             | Mauritania                 | 1 MRU = 0.40 INR |
 | MUR             | Mauritius                 | 1 MUR = 0.47 INR |
@@ -150,7 +150,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | STD             | São Tomé and Príncipe                 | 1 STD = 206.98 INR |
 | STN             | Unknown Country                 | 1 STN = 0.21 INR |
 | SVC             | El Salvador                 | 1 SVC = 0.09 INR |
-| SYP             | Syria                 | 1 SYP = 1.11 INR |
+| SYP             | Syria                 | 1 SYP = 1.12 INR |
 | SZL             | Swaziland                 | 1 SZL = 0.17 INR |
 | THB             | Thailand                 | 1 THB = 0.33 INR |
 | TJS             | Tajikistan                 | 1 TJS = 0.10 INR |
