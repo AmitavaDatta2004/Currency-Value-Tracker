@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-04-29 03:23:07 UTC**
+## 📅 Last Updated: **2026-04-29 10:06:07 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -66,8 +66,8 @@ This repository **automatically updates** the exchange rates of various currenci
 | GGP             | Guernsey                 | 1 GGP = 0.01 INR |
 | GHS             | Ghana                 | 1 GHS = 0.11 INR |
 | GIP             | Gibraltar                 | 1 GIP = 0.01 INR |
-| GMD             | Gambia                 | 1 GMD = 0.74 INR |
-| GNF             | Guinea                 | 1 GNF = 87.78 INR |
+| GMD             | Gambia                 | 1 GMD = 0.73 INR |
+| GNF             | Guinea                 | 1 GNF = 87.77 INR |
 | GTQ             | Guatemala                 | 1 GTQ = 0.08 INR |
 | GYD             | Guyana                 | 1 GYD = 2.09 INR |
 | HKD             | Hong Kong                 | 1 HKD = 0.08 INR |
@@ -75,7 +75,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | HRK             | Croatia                 | 1 HRK = 0.06 INR |
 | HTG             | Haiti                 | 1 HTG = 1.31 INR |
 | HUF             | Hungary                 | 1 HUF = 3.11 INR |
-| IDR             | Indonesia                 | 1 IDR = 173.25 INR |
+| IDR             | Indonesia                 | 1 IDR = 173.65 INR |
 | ILS             | Israel                 | 1 ILS = 0.03 INR |
 | IMP             | Isle of Man                 | 1 IMP = 0.01 INR |
 | INR             | India                 | 1 INR = 0.95 INR |
@@ -91,7 +91,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | KHR             | Cambodia                 | 1 KHR = 40.10 INR |
 | KMF             | Comoros                 | 1 KMF = 4.21 INR |
 | KPW             | North Korea                 | 1 KPW = 9.00 INR |
-| KRW             | South Korea                 | 1 KRW = 14.76 INR |
+| KRW             | South Korea                 | 1 KRW = 14.80 INR |
 | KWD             | Kuwait                 | 1 KWD = 0.00 INR |
 | KYD             | Cayman Islands                 | 1 KYD = 0.01 INR |
 | KZT             | Kazakhstan                 | 1 KZT = 4.58 INR |
@@ -108,7 +108,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | MGA             | Madagascar                 | 1 MGA = 41.49 INR |
 | MKD             | North Macedonia                 | 1 MKD = 0.53 INR |
 | MMK             | Myanmar (Burma)                 | 1 MMK = 21.00 INR |
-| MNT             | Mongolia                 | 1 MNT = 35.96 INR |
+| MNT             | Mongolia                 | 1 MNT = 35.79 INR |
 | MOP             | Macau                 | 1 MOP = 0.08 INR |
 | MRU             | Mauritania                 | 1 MRU = 0.40 INR |
 | MUR             | Mauritius                 | 1 MUR = 0.47 INR |
@@ -118,7 +118,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | MYR             | Malaysia                 | 1 MYR = 0.04 INR |
 | MZN             | Mozambique                 | 1 MZN = 0.64 INR |
 | NAD             | Namibia                 | 1 NAD = 0.17 INR |
-| NGN             | Nigeria                 | 1 NGN = 13.75 INR |
+| NGN             | Nigeria                 | 1 NGN = 13.76 INR |
 | NIO             | Nicaragua                 | 1 NIO = 0.37 INR |
 | NOK             | Norway                 | 1 NOK = 0.09 INR |
 | NPR             | Nepal                 | 1 NPR = 1.51 INR |
@@ -145,7 +145,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | SHP             | Saint Helena                 | 1 SHP = 0.01 INR |
 | SLE             | Sierra Leone                 | 1 SLE = 0.25 INR |
 | SLL             | Sierra Leone (Old Currency)                 | 1 SLL = 209.69 INR |
-| SOS             | Somalia                 | 1 SOS = 5.71 INR |
+| SOS             | Somalia                 | 1 SOS = 5.72 INR |
 | SRD             | Suriname                 | 1 SRD = 0.37 INR |
 | STD             | São Tomé and Príncipe                 | 1 STD = 206.98 INR |
 | STN             | Unknown Country                 | 1 STN = 0.21 INR |
@@ -160,13 +160,13 @@ This repository **automatically updates** the exchange rates of various currenci
 | TRY             | Turkey                 | 1 TRY = 0.45 INR |
 | TTD             | Trinidad and Tobago                 | 1 TTD = 0.07 INR |
 | TWD             | Taiwan                 | 1 TWD = 0.32 INR |
-| TZS             | Tanzania                 | 1 TZS = 26.08 INR |
+| TZS             | Tanzania                 | 1 TZS = 26.03 INR |
 | UAH             | Ukraine                 | 1 UAH = 0.44 INR |
 | UGX             | Uganda                 | 1 UGX = 37.19 INR |
 | UYU             | Uruguay                 | 1 UYU = 0.39 INR |
 | UZS             | Uzbekistan                 | 1 UZS = 120.70 INR |
 | VES             | Unknown Country                 | 1 VES = 4.85 INR |
-| VND             | Vietnam                 | 1 VND = 263.52 INR |
+| VND             | Vietnam                 | 1 VND = 263.56 INR |
 | VUV             | Vanuatu                 | 1 VUV = 1.18 INR |
 | WST             | Samoa                 | 1 WST = 0.03 INR |
 | XAF             | Unknown Country                 | 1 XAF = 5.61 INR |
@@ -175,7 +175,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | XCD             | Unknown Country                 | 1 XCD = 0.03 INR |
 | XCG             | Unknown Country                 | 1 XCG = 0.02 INR |
 | XDR             | Unknown Country                 | 1 XDR = 0.01 INR |
-| XOF             | West African CFA Franc (XOF)                 | 1 XOF = 5.59 INR |
+| XOF             | West African CFA Franc (XOF)                 | 1 XOF = 5.60 INR |
 | XPF             | CFP Franc                 | 1 XPF = 1.02 INR |
 | YER             | Yemen                 | 1 YER = 2.39 INR |
 | ZAR             | South Africa                 | 1 ZAR = 0.17 INR |
