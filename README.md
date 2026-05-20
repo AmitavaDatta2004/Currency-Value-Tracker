@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-05-19 18:06:06 UTC**
+## 📅 Last Updated: **2026-05-20 03:43:07 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -42,10 +42,10 @@ This repository **automatically updates** the exchange rates of various currenci
 | CDF             | Democratic Republic of the Congo                 | 1 CDF = 22.53 INR |
 | CHF             | Switzerland                 | 1 CHF = 0.01 INR |
 | CLF             | Chile                 | 1 CLF = 0.00 INR |
-| CLP             | Chile                 | 1 CLP = 9.05 INR |
+| CLP             | Chile                 | 1 CLP = 9.06 INR |
 | CNH             | China (Offshore Yuan)                 | 1 CNH = 0.07 INR |
 | CNY             | China                 | 1 CNY = 0.07 INR |
-| COP             | Colombia                 | 1 COP = 37.96 INR |
+| COP             | Colombia                 | 1 COP = 37.95 INR |
 | CRC             | Costa Rica                 | 1 CRC = 4.53 INR |
 | CUC             | Cuba (Convertible Peso)                 | 1 CUC = 0.01 INR |
 | CUP             | Cuba                 | 1 CUP = 0.27 INR |
@@ -67,36 +67,36 @@ This repository **automatically updates** the exchange rates of various currenci
 | GHS             | Ghana                 | 1 GHS = 0.11 INR |
 | GIP             | Gibraltar                 | 1 GIP = 0.01 INR |
 | GMD             | Gambia                 | 1 GMD = 0.73 INR |
-| GNF             | Guinea                 | 1 GNF = 87.69 INR |
+| GNF             | Guinea                 | 1 GNF = 87.77 INR |
 | GTQ             | Guatemala                 | 1 GTQ = 0.08 INR |
 | GYD             | Guyana                 | 1 GYD = 2.09 INR |
 | HKD             | Hong Kong                 | 1 HKD = 0.08 INR |
 | HNL             | Honduras                 | 1 HNL = 0.27 INR |
 | HRK             | Croatia                 | 1 HRK = 0.06 INR |
 | HTG             | Haiti                 | 1 HTG = 1.31 INR |
-| HUF             | Hungary                 | 1 HUF = 3.11 INR |
-| IDR             | Indonesia                 | 1 IDR = 177.16 INR |
+| HUF             | Hungary                 | 1 HUF = 3.12 INR |
+| IDR             | Indonesia                 | 1 IDR = 176.99 INR |
 | ILS             | Israel                 | 1 ILS = 0.03 INR |
 | IMP             | Isle of Man                 | 1 IMP = 0.01 INR |
 | INR             | India                 | 1 INR = 0.97 INR |
-| IQD             | Iraq                 | 1 IQD = 13.10 INR |
-| IRR             | Iran                 | 1 IRR = 13140.00 INR |
-| ISK             | Iceland                 | 1 ISK = 1.23 INR |
+| IQD             | Iraq                 | 1 IQD = 13.11 INR |
+| IRR             | Iran                 | 1 IRR = 13209.50 INR |
+| ISK             | Iceland                 | 1 ISK = 1.24 INR |
 | JEP             | Jersey                 | 1 JEP = 0.01 INR |
 | JMD             | Jamaica                 | 1 JMD = 1.58 INR |
 | JOD             | Jordan                 | 1 JOD = 0.01 INR |
 | JPY             | Japan                 | 1 JPY = 1.59 INR |
 | KES             | Kenya                 | 1 KES = 1.29 INR |
 | KGS             | Kyrgyzstan                 | 1 KGS = 0.87 INR |
-| KHR             | Cambodia                 | 1 KHR = 40.12 INR |
+| KHR             | Cambodia                 | 1 KHR = 40.11 INR |
 | KMF             | Comoros                 | 1 KMF = 4.24 INR |
 | KPW             | North Korea                 | 1 KPW = 9.00 INR |
-| KRW             | South Korea                 | 1 KRW = 15.07 INR |
+| KRW             | South Korea                 | 1 KRW = 15.09 INR |
 | KWD             | Kuwait                 | 1 KWD = 0.00 INR |
 | KYD             | Cayman Islands                 | 1 KYD = 0.01 INR |
 | KZT             | Kazakhstan                 | 1 KZT = 4.71 INR |
-| LAK             | Laos                 | 1 LAK = 219.25 INR |
-| LBP             | Lebanon                 | 1 LBP = 895.69 INR |
+| LAK             | Laos                 | 1 LAK = 219.50 INR |
+| LBP             | Lebanon                 | 1 LBP = 895.50 INR |
 | LKR             | Sri Lanka                 | 1 LKR = 3.31 INR |
 | LRD             | Liberia                 | 1 LRD = 1.83 INR |
 | LSL             | Lesotho                 | 1 LSL = 0.17 INR |
@@ -113,7 +113,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | MRU             | Mauritania                 | 1 MRU = 0.40 INR |
 | MUR             | Mauritius                 | 1 MUR = 0.47 INR |
 | MVR             | Maldives                 | 1 MVR = 0.15 INR |
-| MWK             | Malawi                 | 1 MWK = 17.34 INR |
+| MWK             | Malawi                 | 1 MWK = 17.41 INR |
 | MXN             | Mexico                 | 1 MXN = 0.17 INR |
 | MYR             | Malaysia                 | 1 MYR = 0.04 INR |
 | MZN             | Mozambique                 | 1 MZN = 0.64 INR |
@@ -138,7 +138,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | RWF             | Rwanda                 | 1 RWF = 14.63 INR |
 | SAR             | Saudi Arabia                 | 1 SAR = 0.04 INR |
 | SBD             | Solomon Islands                 | 1 SBD = 0.08 INR |
-| SCR             | Seychelles                 | 1 SCR = 0.14 INR |
+| SCR             | Seychelles                 | 1 SCR = 0.13 INR |
 | SDG             | Sudan                 | 1 SDG = 6.01 INR |
 | SEK             | Sweden                 | 1 SEK = 0.09 INR |
 | SGD             | Singapore                 | 1 SGD = 0.01 INR |
@@ -166,7 +166,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | UYU             | Uruguay                 | 1 UYU = 0.40 INR |
 | UZS             | Uzbekistan                 | 1 UZS = 120.22 INR |
 | VES             | Unknown Country                 | 1 VES = 5.17 INR |
-| VND             | Vietnam                 | 1 VND = 263.59 INR |
+| VND             | Vietnam                 | 1 VND = 263.65 INR |
 | VUV             | Vanuatu                 | 1 VUV = 1.18 INR |
 | WST             | Samoa                 | 1 WST = 0.03 INR |
 | XAF             | Unknown Country                 | 1 XAF = 5.65 INR |
