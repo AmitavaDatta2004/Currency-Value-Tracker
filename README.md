@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-07-26 10:02:05 UTC**
+## 📅 Last Updated: **2026-07-26 17:02:05 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -105,7 +105,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | MGA             | Madagascar                 | 1 MGA = 44.33 INR |
 | MKD             | North Macedonia                 | 1 MKD = 0.54 INR |
 | MMK             | Myanmar (Burma)                 | 1 MMK = 21.00 INR |
-| MNT             | Mongolia                 | 1 MNT = 35.96 INR |
+| MNT             | Mongolia                 | 1 MNT = 35.94 INR |
 | MOP             | Macau                 | 1 MOP = 0.08 INR |
 | MRU             | Mauritania                 | 1 MRU = 0.40 INR |
 | MUR             | Mauritius                 | 1 MUR = 0.47 INR |
@@ -115,7 +115,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | MYR             | Malaysia                 | 1 MYR = 0.04 INR |
 | MZN             | Mozambique                 | 1 MZN = 0.64 INR |
 | NAD             | Namibia                 | 1 NAD = 0.17 INR |
-| NGN             | Nigeria                 | 1 NGN = 13.66 INR |
+| NGN             | Nigeria                 | 1 NGN = 13.65 INR |
 | NIO             | Nicaragua                 | 1 NIO = 0.37 INR |
 | NOK             | Norway                 | 1 NOK = 0.10 INR |
 | NPR             | Nepal                 | 1 NPR = 1.54 INR |
@@ -160,7 +160,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | UZS             | Uzbekistan                 | 1 UZS = 121.06 INR |
 | VES             | Unknown Country                 | 1 VES = 7.41 INR |
 | VND             | Vietnam                 | 1 VND = 263.20 INR |
-| VUV             | Vanuatu                 | 1 VUV = 1.18 INR |
+| VUV             | Vanuatu                 | 1 VUV = 1.19 INR |
 | WST             | Samoa                 | 1 WST = 0.03 INR |
 | XAF             | Unknown Country                 | 1 XAF = 5.76 INR |
 | XAG             | Unknown Country                 | 1 XAG = 0.00 INR |
