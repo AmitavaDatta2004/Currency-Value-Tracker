@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-08-02 02:52:08 UTC**
+## 📅 Last Updated: **2026-08-02 09:58:04 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -43,7 +43,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | CLP             | Chile                 | 1 CLP = 9.30 INR |
 | CNH             | China (Offshore Yuan)                 | 1 CNH = 0.07 INR |
 | CNY             | China                 | 1 CNY = 0.07 INR |
-| COP             | Colombia                 | 1 COP = 31.66 INR |
+| COP             | Colombia                 | 1 COP = 31.01 INR |
 | CRC             | Costa Rica                 | 1 CRC = 4.53 INR |
 | CUC             | Cuba (Convertible Peso)                 | 1 CUC = 0.01 INR |
 | CUP             | Cuba                 | 1 CUP = 0.27 INR |
@@ -86,7 +86,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | JPY             | Japan                 | 1 JPY = 1.57 INR |
 | KES             | Kenya                 | 1 KES = 1.29 INR |
 | KGS             | Kyrgyzstan                 | 1 KGS = 0.87 INR |
-| KHR             | Cambodia                 | 1 KHR = 40.40 INR |
+| KHR             | Cambodia                 | 1 KHR = 40.34 INR |
 | KMF             | Comoros                 | 1 KMF = 4.27 INR |
 | KRW             | South Korea                 | 1 KRW = 14.43 INR |
 | KWD             | Kuwait                 | 1 KWD = 0.00 INR |
