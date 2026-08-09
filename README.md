@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-08-08 16:33:05 UTC**
+## 📅 Last Updated: **2026-08-09 01:49:05 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -40,7 +40,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | CDF             | Democratic Republic of the Congo                 | 1 CDF = 22.63 INR |
 | CHF             | Switzerland                 | 1 CHF = 0.01 INR |
 | CLF             | Chile                 | 1 CLF = 0.00 INR |
-| CLP             | Chile                 | 1 CLP = 9.14 INR |
+| CLP             | Chile                 | 1 CLP = 9.13 INR |
 | CNH             | China (Offshore Yuan)                 | 1 CNH = 0.07 INR |
 | CNY             | China                 | 1 CNY = 0.07 INR |
 | COP             | Colombia                 | 1 COP = 31.43 INR |
