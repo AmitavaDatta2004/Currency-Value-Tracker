@@ -7,12 +7,12 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-08-31 15:54:06 UTC**
+## 📅 Last Updated: **2026-08-31 21:20:05 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
 | AED             | United Arab Emirates                 | 1 AED = 0.04 INR |
-| AFN             | Afghanistan                 | 1 AFN = 0.65 INR |
+| AFN             | Afghanistan                 | 1 AFN = 0.66 INR |
 | ALL             | Albania                 | 1 ALL = 0.80 INR |
 | AMD             | Armenia                 | 1 AMD = 3.64 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
@@ -39,13 +39,13 @@ This repository **automatically updates** the exchange rates of various currenci
 | BYR             | Belarus (Old Currency)                 | 1 BYR = 196.00 INR |
 | BZD             | Belize                 | 1 BZD = 0.02 INR |
 | CAD             | Canada                 | 1 CAD = 0.01 INR |
-| CDF             | Democratic Republic of the Congo                 | 1 CDF = 22.73 INR |
+| CDF             | Democratic Republic of the Congo                 | 1 CDF = 22.70 INR |
 | CHF             | Switzerland                 | 1 CHF = 0.01 INR |
 | CLF             | Chile                 | 1 CLF = 0.00 INR |
-| CLP             | Chile                 | 1 CLP = 9.32 INR |
+| CLP             | Chile                 | 1 CLP = 9.35 INR |
 | CNH             | China (Offshore Yuan)                 | 1 CNH = 0.07 INR |
 | CNY             | China                 | 1 CNY = 0.07 INR |
-| COP             | Colombia                 | 1 COP = 32.08 INR |
+| COP             | Colombia                 | 1 COP = 32.13 INR |
 | CRC             | Costa Rica                 | 1 CRC = 4.49 INR |
 | CUC             | Cuba (Convertible Peso)                 | 1 CUC = 0.01 INR |
 | CUP             | Cuba                 | 1 CUP = 0.27 INR |
@@ -75,7 +75,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | HRK             | Croatia                 | 1 HRK = 0.06 INR |
 | HTG             | Haiti                 | 1 HTG = 1.31 INR |
 | HUF             | Hungary                 | 1 HUF = 3.14 INR |
-| IDR             | Indonesia                 | 1 IDR = 177.23 INR |
+| IDR             | Indonesia                 | 1 IDR = 176.23 INR |
 | ILS             | Israel                 | 1 ILS = 0.03 INR |
 | IMP             | Isle of Man                 | 1 IMP = 0.01 INR |
 | INR             | India                 | 1 INR = 0.95 INR |
@@ -127,7 +127,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | PAB             | Panama                 | 1 PAB = 0.01 INR |
 | PEN             | Peru                 | 1 PEN = 0.03 INR |
 | PGK             | Papua New Guinea                 | 1 PGK = 0.04 INR |
-| PHP             | Philippines                 | 1 PHP = 0.62 INR |
+| PHP             | Philippines                 | 1 PHP = 0.63 INR |
 | PKR             | Pakistan                 | 1 PKR = 2.77 INR |
 | PLN             | Poland                 | 1 PLN = 0.04 INR |
 | PYG             | Paraguay                 | 1 PYG = 59.17 INR |
