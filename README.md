@@ -7,12 +7,12 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-09-13 13:09:04 UTC**
+## 📅 Last Updated: **2026-09-13 18:35:06 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
 | AED             | United Arab Emirates                 | 1 AED = 0.04 INR |
-| AFN             | Afghanistan                 | 1 AFN = 0.65 INR |
+| AFN             | Afghanistan                 | 1 AFN = 0.64 INR |
 | ALL             | Albania                 | 1 ALL = 0.79 INR |
 | AMD             | Armenia                 | 1 AMD = 3.62 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
@@ -140,12 +140,12 @@ This repository **automatically updates** the exchange rates of various currenci
 | SAR             | Saudi Arabia                 | 1 SAR = 0.04 INR |
 | SBD             | Solomon Islands                 | 1 SBD = 0.08 INR |
 | SCR             | Seychelles                 | 1 SCR = 0.14 INR |
-| SDG             | Sudan                 | 1 SDG = 6.02 INR |
+| SDG             | Sudan                 | 1 SDG = 6.01 INR |
 | SEK             | Sweden                 | 1 SEK = 0.10 INR |
 | SGD             | Singapore                 | 1 SGD = 0.01 INR |
 | SHP             | Saint Helena                 | 1 SHP = 0.01 INR |
 | SLE             | Sierra Leone                 | 1 SLE = 0.25 INR |
-| SLL             | Sierra Leone (Old Currency)                 | 1 SLL = 209.70 INR |
+| SLL             | Sierra Leone (Old Currency)                 | 1 SLL = 209.69 INR |
 | SOS             | Somalia                 | 1 SOS = 5.71 INR |
 | SRD             | Suriname                 | 1 SRD = 0.38 INR |
 | SSP             | Unknown Country                 | 1 SSP = 56.49 INR |
