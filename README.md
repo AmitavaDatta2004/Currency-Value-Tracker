@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-09-25 19:52:05 UTC**
+## 📅 Last Updated: **2026-09-26 03:59:04 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -17,7 +17,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | AMD             | Armenia                 | 1 AMD = 3.64 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
 | AOA             | Angola                 | 1 AOA = 9.18 INR |
-| ARS             | Argentina                 | 1 ARS = 15.25 INR |
+| ARS             | Argentina                 | 1 ARS = 15.29 INR |
 | AUD             | Australia                 | 1 AUD = 0.01 INR |
 | AWG             | Aruba                 | 1 AWG = 0.02 INR |
 | AZN             | Azerbaijan                 | 1 AZN = 0.02 INR |
@@ -39,13 +39,13 @@ This repository **automatically updates** the exchange rates of various currenci
 | BYR             | Belarus (Old Currency)                 | 1 BYR = 196.00 INR |
 | BZD             | Belize                 | 1 BZD = 0.02 INR |
 | CAD             | Canada                 | 1 CAD = 0.01 INR |
-| CDF             | Democratic Republic of the Congo                 | 1 CDF = 23.10 INR |
+| CDF             | Democratic Republic of the Congo                 | 1 CDF = 23.40 INR |
 | CHF             | Switzerland                 | 1 CHF = 0.01 INR |
 | CLF             | Chile                 | 1 CLF = 0.00 INR |
 | CLP             | Chile                 | 1 CLP = 9.62 INR |
 | CNH             | China (Offshore Yuan)                 | 1 CNH = 0.07 INR |
 | CNY             | China                 | 1 CNY = 0.07 INR |
-| COP             | Colombia                 | 1 COP = 33.15 INR |
+| COP             | Colombia                 | 1 COP = 33.05 INR |
 | CRC             | Costa Rica                 | 1 CRC = 4.54 INR |
 | CUC             | Cuba (Convertible Peso)                 | 1 CUC = 0.01 INR |
 | CUP             | Cuba                 | 1 CUP = 0.24 INR |
@@ -53,7 +53,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | CZK             | Czech Republic                 | 1 CZK = 0.21 INR |
 | DJF             | Djibouti                 | 1 DJF = 1.78 INR |
 | DKK             | Denmark                 | 1 DKK = 0.07 INR |
-| DOP             | Dominican Republic                 | 1 DOP = 0.59 INR |
+| DOP             | Dominican Republic                 | 1 DOP = 0.60 INR |
 | DZD             | Algeria                 | 1 DZD = 1.34 INR |
 | EGP             | Egypt                 | 1 EGP = 0.52 INR |
 | ERN             | Eritrea                 | 1 ERN = 0.15 INR |
@@ -74,8 +74,8 @@ This repository **automatically updates** the exchange rates of various currenci
 | HNL             | Honduras                 | 1 HNL = 0.27 INR |
 | HRK             | Croatia                 | 1 HRK = 0.07 INR |
 | HTG             | Haiti                 | 1 HTG = 1.31 INR |
-| HUF             | Hungary                 | 1 HUF = 3.20 INR |
-| IDR             | Indonesia                 | 1 IDR = 179.18 INR |
+| HUF             | Hungary                 | 1 HUF = 3.21 INR |
+| IDR             | Indonesia                 | 1 IDR = 179.14 INR |
 | ILS             | Israel                 | 1 ILS = 0.03 INR |
 | IMP             | Isle of Man                 | 1 IMP = 0.01 INR |
 | INR             | India                 | 1 INR = 0.96 INR |
@@ -91,7 +91,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | KHR             | Cambodia                 | 1 KHR = 40.63 INR |
 | KMF             | Comoros                 | 1 KMF = 4.33 INR |
 | KPW             | North Korea                 | 1 KPW = 9.00 INR |
-| KRW             | South Korea                 | 1 KRW = 13.56 INR |
+| KRW             | South Korea                 | 1 KRW = 13.55 INR |
 | KWD             | Kuwait                 | 1 KWD = 0.00 INR |
 | KYD             | Cayman Islands                 | 1 KYD = 0.01 INR |
 | KZT             | Kazakhstan                 | 1 KZT = 4.43 INR |
@@ -107,8 +107,8 @@ This repository **automatically updates** the exchange rates of various currenci
 | MDL             | Moldova                 | 1 MDL = 0.18 INR |
 | MGA             | Madagascar                 | 1 MGA = 44.11 INR |
 | MKD             | North Macedonia                 | 1 MKD = 0.54 INR |
-| MMK             | Myanmar (Burma)                 | 1 MMK = 20.99 INR |
-| MNT             | Mongolia                 | 1 MNT = 35.99 INR |
+| MMK             | Myanmar (Burma)                 | 1 MMK = 21.00 INR |
+| MNT             | Mongolia                 | 1 MNT = 35.98 INR |
 | MOP             | Macau                 | 1 MOP = 0.08 INR |
 | MRU             | Mauritania                 | 1 MRU = 0.40 INR |
 | MUR             | Mauritius                 | 1 MUR = 0.48 INR |
@@ -121,7 +121,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | NAD             | Namibia                 | 1 NAD = 0.16 INR |
 | NGN             | Nigeria                 | 1 NGN = 13.26 INR |
 | NIO             | Nicaragua                 | 1 NIO = 0.37 INR |
-| NOK             | Norway                 | 1 NOK = 0.09 INR |
+| NOK             | Norway                 | 1 NOK = 0.10 INR |
 | NPR             | Nepal                 | 1 NPR = 1.53 INR |
 | NZD             | New Zealand                 | 1 NZD = 0.02 INR |
 | OMR             | Oman                 | 1 OMR = 0.00 INR |
@@ -169,7 +169,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | UZS             | Uzbekistan                 | 1 UZS = 118.25 INR |
 | VES             | Unknown Country                 | 1 VES = 8.52 INR |
 | VND             | Vietnam                 | 1 VND = 259.76 INR |
-| VUV             | Vanuatu                 | 1 VUV = 1.19 INR |
+| VUV             | Vanuatu                 | 1 VUV = 1.18 INR |
 | WST             | Samoa                 | 1 WST = 0.03 INR |
 | XAF             | Unknown Country                 | 1 XAF = 5.76 INR |
 | XAG             | Unknown Country                 | 1 XAG = 0.00 INR |
