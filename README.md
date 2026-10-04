@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-10-04 13:45:04 UTC**
+## 📅 Last Updated: **2026-10-04 19:16:04 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -66,7 +66,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | GGP             | Guernsey                 | 1 GGP = 0.01 INR |
 | GHS             | Ghana                 | 1 GHS = 0.12 INR |
 | GIP             | Gibraltar                 | 1 GIP = 0.01 INR |
-| GMD             | Gambia                 | 1 GMD = 0.74 INR |
+| GMD             | Gambia                 | 1 GMD = 0.73 INR |
 | GNF             | Guinea                 | 1 GNF = 87.77 INR |
 | GTQ             | Guatemala                 | 1 GTQ = 0.08 INR |
 | GYD             | Guyana                 | 1 GYD = 2.09 INR |
@@ -154,7 +154,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | SVC             | El Salvador                 | 1 SVC = 0.09 INR |
 | SYP             | Syria                 | 1 SYP = 130.02 INR |
 | SZL             | Swaziland                 | 1 SZL = 0.17 INR |
-| THB             | Thailand                 | 1 THB = 0.34 INR |
+| THB             | Thailand                 | 1 THB = 0.33 INR |
 | TJS             | Tajikistan                 | 1 TJS = 0.09 INR |
 | TMT             | Turkmenistan                 | 1 TMT = 0.04 INR |
 | TND             | Tunisia                 | 1 TND = 0.03 INR |
