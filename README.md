@@ -7,17 +7,17 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-10-11 04:34:05 UTC**
+## 📅 Last Updated: **2026-10-11 14:42:05 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
 | AED             | United Arab Emirates                 | 1 AED = 0.04 INR |
 | AFN             | Afghanistan                 | 1 AFN = 0.65 INR |
 | ALL             | Albania                 | 1 ALL = 0.82 INR |
-| AMD             | Armenia                 | 1 AMD = 3.62 INR |
+| AMD             | Armenia                 | 1 AMD = 3.63 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
 | AOA             | Angola                 | 1 AOA = 9.18 INR |
-| ARS             | Argentina                 | 1 ARS = 15.18 INR |
+| ARS             | Argentina                 | 1 ARS = 15.17 INR |
 | AUD             | Australia                 | 1 AUD = 0.01 INR |
 | AWG             | Aruba                 | 1 AWG = 0.02 INR |
 | AZN             | Azerbaijan                 | 1 AZN = 0.02 INR |
@@ -45,11 +45,11 @@ This repository **automatically updates** the exchange rates of various currenci
 | CLP             | Chile                 | 1 CLP = 9.77 INR |
 | CNH             | China (Offshore Yuan)                 | 1 CNH = 0.07 INR |
 | CNY             | China                 | 1 CNY = 0.07 INR |
-| COP             | Colombia                 | 1 COP = 31.95 INR |
+| COP             | Colombia                 | 1 COP = 32.14 INR |
 | CRC             | Costa Rica                 | 1 CRC = 4.56 INR |
 | CUC             | Cuba (Convertible Peso)                 | 1 CUC = 0.01 INR |
 | CUP             | Cuba                 | 1 CUP = 0.24 INR |
-| CVE             | Cape Verde                 | 1 CVE = 0.99 INR |
+| CVE             | Cape Verde                 | 1 CVE = 0.98 INR |
 | CZK             | Czech Republic                 | 1 CZK = 0.22 INR |
 | DJF             | Djibouti                 | 1 DJF = 1.78 INR |
 | DKK             | Denmark                 | 1 DKK = 0.07 INR |
@@ -85,13 +85,13 @@ This repository **automatically updates** the exchange rates of various currenci
 | JEP             | Jersey                 | 1 JEP = 0.01 INR |
 | JMD             | Jamaica                 | 1 JMD = 1.59 INR |
 | JOD             | Jordan                 | 1 JOD = 0.01 INR |
-| JPY             | Japan                 | 1 JPY = 1.58 INR |
+| JPY             | Japan                 | 1 JPY = 1.59 INR |
 | KES             | Kenya                 | 1 KES = 1.30 INR |
 | KGS             | Kyrgyzstan                 | 1 KGS = 0.87 INR |
 | KHR             | Cambodia                 | 1 KHR = 40.61 INR |
 | KMF             | Comoros                 | 1 KMF = 4.40 INR |
 | KPW             | North Korea                 | 1 KPW = 9.00 INR |
-| KRW             | South Korea                 | 1 KRW = 13.40 INR |
+| KRW             | South Korea                 | 1 KRW = 13.41 INR |
 | KWD             | Kuwait                 | 1 KWD = 0.00 INR |
 | KYD             | Cayman Islands                 | 1 KYD = 0.01 INR |
 | KZT             | Kazakhstan                 | 1 KZT = 4.54 INR |
@@ -108,7 +108,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | MGA             | Madagascar                 | 1 MGA = 44.60 INR |
 | MKD             | North Macedonia                 | 1 MKD = 0.55 INR |
 | MMK             | Myanmar (Burma)                 | 1 MMK = 21.00 INR |
-| MNT             | Mongolia                 | 1 MNT = 36.00 INR |
+| MNT             | Mongolia                 | 1 MNT = 35.95 INR |
 | MOP             | Macau                 | 1 MOP = 0.08 INR |
 | MRU             | Mauritania                 | 1 MRU = 0.40 INR |
 | MUR             | Mauritius                 | 1 MUR = 0.47 INR |
@@ -169,7 +169,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | UZS             | Uzbekistan                 | 1 UZS = 119.01 INR |
 | VES             | Unknown Country                 | 1 VES = 8.76 INR |
 | VND             | Vietnam                 | 1 VND = 259.00 INR |
-| VUV             | Vanuatu                 | 1 VUV = 1.20 INR |
+| VUV             | Vanuatu                 | 1 VUV = 1.19 INR |
 | WST             | Samoa                 | 1 WST = 0.03 INR |
 | XAF             | Unknown Country                 | 1 XAF = 5.85 INR |
 | XAG             | Unknown Country                 | 1 XAG = 0.00 INR |
