@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-10-24 18:37:04 UTC**
+## 📅 Last Updated: **2026-10-25 03:38:05 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -108,7 +108,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | MGA             | Madagascar                 | 1 MGA = 45.19 INR |
 | MKD             | North Macedonia                 | 1 MKD = 0.55 INR |
 | MMK             | Myanmar (Burma)                 | 1 MMK = 21.00 INR |
-| MNT             | Mongolia                 | 1 MNT = 36.00 INR |
+| MNT             | Mongolia                 | 1 MNT = 35.99 INR |
 | MOP             | Macau                 | 1 MOP = 0.08 INR |
 | MRU             | Mauritania                 | 1 MRU = 0.40 INR |
 | MUR             | Mauritius                 | 1 MUR = 0.47 INR |
@@ -148,7 +148,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | SLL             | Sierra Leone (Old Currency)                 | 1 SLL = 209.70 INR |
 | SOS             | Somalia                 | 1 SOS = 5.71 INR |
 | SRD             | Suriname                 | 1 SRD = 0.38 INR |
-| SSP             | Unknown Country                 | 1 SSP = 57.46 INR |
+| SSP             | Unknown Country                 | 1 SSP = 57.45 INR |
 | STD             | São Tomé and Príncipe                 | 1 STD = 206.98 INR |
 | STN             | Unknown Country                 | 1 STN = 0.22 INR |
 | SVC             | El Salvador                 | 1 SVC = 0.09 INR |
