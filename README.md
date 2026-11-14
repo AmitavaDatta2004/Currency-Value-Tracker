@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-11-14 05:23:06 UTC**
+## 📅 Last Updated: **2026-11-14 14:50:06 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -148,7 +148,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | SLL             | Sierra Leone (Old Currency)                 | 1 SLL = 209.70 INR |
 | SOS             | Somalia                 | 1 SOS = 5.73 INR |
 | SRD             | Suriname                 | 1 SRD = 0.37 INR |
-| SSP             | Unknown Country                 | 1 SSP = 59.47 INR |
+| SSP             | Unknown Country                 | 1 SSP = 59.46 INR |
 | STD             | São Tomé and Príncipe                 | 1 STD = 206.98 INR |
 | STN             | Unknown Country                 | 1 STN = 0.22 INR |
 | SVC             | El Salvador                 | 1 SVC = 0.09 INR |
@@ -169,7 +169,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | UZS             | Uzbekistan                 | 1 UZS = 120.39 INR |
 | VES             | Unknown Country                 | 1 VES = 9.13 INR |
 | VND             | Vietnam                 | 1 VND = 257.25 INR |
-| VUV             | Vanuatu                 | 1 VUV = 1.20 INR |
+| VUV             | Vanuatu                 | 1 VUV = 1.21 INR |
 | WST             | Samoa                 | 1 WST = 0.03 INR |
 | XAF             | Unknown Country                 | 1 XAF = 5.95 INR |
 | XAG             | Unknown Country                 | 1 XAG = 0.00 INR |
