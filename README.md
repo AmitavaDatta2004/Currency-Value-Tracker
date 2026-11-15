@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-11-15 15:25:06 UTC**
+## 📅 Last Updated: **2026-11-15 20:51:06 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -17,7 +17,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | AMD             | Armenia                 | 1 AMD = 3.61 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
 | AOA             | Angola                 | 1 AOA = 9.18 INR |
-| ARS             | Argentina                 | 1 ARS = 15.46 INR |
+| ARS             | Argentina                 | 1 ARS = 15.45 INR |
 | AUD             | Australia                 | 1 AUD = 0.01 INR |
 | AWG             | Aruba                 | 1 AWG = 0.02 INR |
 | AZN             | Azerbaijan                 | 1 AZN = 0.02 INR |
@@ -55,7 +55,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | DKK             | Denmark                 | 1 DKK = 0.07 INR |
 | DOP             | Dominican Republic                 | 1 DOP = 0.61 INR |
 | DZD             | Algeria                 | 1 DZD = 1.37 INR |
-| EGP             | Egypt                 | 1 EGP = 0.54 INR |
+| EGP             | Egypt                 | 1 EGP = 0.53 INR |
 | ERN             | Eritrea                 | 1 ERN = 0.15 INR |
 | ETB             | Ethiopia                 | 1 ETB = 1.65 INR |
 | EUR             | European Union                 | 1 EUR = 0.01 INR |
@@ -80,7 +80,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | IMP             | Isle of Man                 | 1 IMP = 0.01 INR |
 | INR             | India                 | 1 INR = 0.94 INR |
 | IQD             | Iraq                 | 1 IQD = 15.20 INR |
-| IRR             | Iran                 | 1 IRR = 19137.38 INR |
+| IRR             | Iran                 | 1 IRR = 19137.37 INR |
 | ISK             | Iceland                 | 1 ISK = 1.24 INR |
 | JEP             | Jersey                 | 1 JEP = 0.01 INR |
 | JMD             | Jamaica                 | 1 JMD = 1.58 INR |
@@ -140,7 +140,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | SAR             | Saudi Arabia                 | 1 SAR = 0.04 INR |
 | SBD             | Solomon Islands                 | 1 SBD = 0.08 INR |
 | SCR             | Seychelles                 | 1 SCR = 0.14 INR |
-| SDG             | Sudan                 | 1 SDG = 6.02 INR |
+| SDG             | Sudan                 | 1 SDG = 6.01 INR |
 | SEK             | Sweden                 | 1 SEK = 0.10 INR |
 | SGD             | Singapore                 | 1 SGD = 0.01 INR |
 | SHP             | Saint Helena                 | 1 SHP = 0.01 INR |
