@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-11-15 20:51:06 UTC**
+## 📅 Last Updated: **2026-11-16 05:16:06 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -17,7 +17,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | AMD             | Armenia                 | 1 AMD = 3.61 INR |
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
 | AOA             | Angola                 | 1 AOA = 9.18 INR |
-| ARS             | Argentina                 | 1 ARS = 15.45 INR |
+| ARS             | Argentina                 | 1 ARS = 15.46 INR |
 | AUD             | Australia                 | 1 AUD = 0.01 INR |
 | AWG             | Aruba                 | 1 AWG = 0.02 INR |
 | AZN             | Azerbaijan                 | 1 AZN = 0.02 INR |
@@ -42,7 +42,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | CDF             | Democratic Republic of the Congo                 | 1 CDF = 23.15 INR |
 | CHF             | Switzerland                 | 1 CHF = 0.01 INR |
 | CLF             | Chile                 | 1 CLF = 0.00 INR |
-| CLP             | Chile                 | 1 CLP = 10.02 INR |
+| CLP             | Chile                 | 1 CLP = 9.98 INR |
 | CNH             | China (Offshore Yuan)                 | 1 CNH = 0.07 INR |
 | CNY             | China                 | 1 CNY = 0.07 INR |
 | COP             | Colombia                 | 1 COP = 33.20 INR |
@@ -55,7 +55,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | DKK             | Denmark                 | 1 DKK = 0.07 INR |
 | DOP             | Dominican Republic                 | 1 DOP = 0.61 INR |
 | DZD             | Algeria                 | 1 DZD = 1.37 INR |
-| EGP             | Egypt                 | 1 EGP = 0.53 INR |
+| EGP             | Egypt                 | 1 EGP = 0.54 INR |
 | ERN             | Eritrea                 | 1 ERN = 0.15 INR |
 | ETB             | Ethiopia                 | 1 ETB = 1.65 INR |
 | EUR             | European Union                 | 1 EUR = 0.01 INR |
@@ -69,13 +69,13 @@ This repository **automatically updates** the exchange rates of various currenci
 | GMD             | Gambia                 | 1 GMD = 0.74 INR |
 | GNF             | Guinea                 | 1 GNF = 88.84 INR |
 | GTQ             | Guatemala                 | 1 GTQ = 0.08 INR |
-| GYD             | Guyana                 | 1 GYD = 2.09 INR |
+| GYD             | Guyana                 | 1 GYD = 2.10 INR |
 | HKD             | Hong Kong                 | 1 HKD = 0.08 INR |
 | HNL             | Honduras                 | 1 HNL = 0.27 INR |
 | HRK             | Croatia                 | 1 HRK = 0.07 INR |
 | HTG             | Haiti                 | 1 HTG = 1.31 INR |
 | HUF             | Hungary                 | 1 HUF = 3.31 INR |
-| IDR             | Indonesia                 | 1 IDR = 182.35 INR |
+| IDR             | Indonesia                 | 1 IDR = 182.57 INR |
 | ILS             | Israel                 | 1 ILS = 0.03 INR |
 | IMP             | Isle of Man                 | 1 IMP = 0.01 INR |
 | INR             | India                 | 1 INR = 0.94 INR |
@@ -85,13 +85,13 @@ This repository **automatically updates** the exchange rates of various currenci
 | JEP             | Jersey                 | 1 JEP = 0.01 INR |
 | JMD             | Jamaica                 | 1 JMD = 1.58 INR |
 | JOD             | Jordan                 | 1 JOD = 0.01 INR |
-| JPY             | Japan                 | 1 JPY = 1.60 INR |
+| JPY             | Japan                 | 1 JPY = 1.59 INR |
 | KES             | Kenya                 | 1 KES = 1.30 INR |
 | KGS             | Kyrgyzstan                 | 1 KGS = 0.87 INR |
-| KHR             | Cambodia                 | 1 KHR = 40.80 INR |
+| KHR             | Cambodia                 | 1 KHR = 41.19 INR |
 | KMF             | Comoros                 | 1 KMF = 4.47 INR |
 | KPW             | North Korea                 | 1 KPW = 9.00 INR |
-| KRW             | South Korea                 | 1 KRW = 13.35 INR |
+| KRW             | South Korea                 | 1 KRW = 13.34 INR |
 | KWD             | Kuwait                 | 1 KWD = 0.00 INR |
 | KYD             | Cayman Islands                 | 1 KYD = 0.01 INR |
 | KZT             | Kazakhstan                 | 1 KZT = 4.47 INR |
@@ -119,7 +119,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | MYR             | Malaysia                 | 1 MYR = 0.04 INR |
 | MZN             | Mozambique                 | 1 MZN = 0.64 INR |
 | NAD             | Namibia                 | 1 NAD = 0.17 INR |
-| NGN             | Nigeria                 | 1 NGN = 13.44 INR |
+| NGN             | Nigeria                 | 1 NGN = 13.43 INR |
 | NIO             | Nicaragua                 | 1 NIO = 0.37 INR |
 | NOK             | Norway                 | 1 NOK = 0.10 INR |
 | NPR             | Nepal                 | 1 NPR = 1.51 INR |
@@ -131,7 +131,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | PHP             | Philippines                 | 1 PHP = 0.64 INR |
 | PKR             | Pakistan                 | 1 PKR = 2.77 INR |
 | PLN             | Poland                 | 1 PLN = 0.04 INR |
-| PYG             | Paraguay                 | 1 PYG = 62.08 INR |
+| PYG             | Paraguay                 | 1 PYG = 62.23 INR |
 | QAR             | Qatar                 | 1 QAR = 0.04 INR |
 | RON             | Romania                 | 1 RON = 0.05 INR |
 | RSD             | Serbia                 | 1 RSD = 1.07 INR |
@@ -162,13 +162,13 @@ This repository **automatically updates** the exchange rates of various currenci
 | TRY             | Turkey                 | 1 TRY = 0.50 INR |
 | TTD             | Trinidad and Tobago                 | 1 TTD = 0.07 INR |
 | TWD             | Taiwan                 | 1 TWD = 0.33 INR |
-| TZS             | Tanzania                 | 1 TZS = 26.55 INR |
+| TZS             | Tanzania                 | 1 TZS = 26.53 INR |
 | UAH             | Ukraine                 | 1 UAH = 0.46 INR |
-| UGX             | Uganda                 | 1 UGX = 41.31 INR |
+| UGX             | Uganda                 | 1 UGX = 41.41 INR |
 | UYU             | Uruguay                 | 1 UYU = 0.41 INR |
 | UZS             | Uzbekistan                 | 1 UZS = 120.58 INR |
 | VES             | Unknown Country                 | 1 VES = 9.13 INR |
-| VND             | Vietnam                 | 1 VND = 257.25 INR |
+| VND             | Vietnam                 | 1 VND = 257.48 INR |
 | VUV             | Vanuatu                 | 1 VUV = 1.20 INR |
 | WST             | Samoa                 | 1 WST = 0.03 INR |
 | XAF             | Unknown Country                 | 1 XAF = 5.95 INR |
