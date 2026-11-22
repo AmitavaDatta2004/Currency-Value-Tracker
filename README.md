@@ -7,7 +7,7 @@ This repository **automatically updates** the exchange rates of various currenci
 
 ---
 
-## 📅 Last Updated: **2026-11-22 15:59:09 UTC**
+## 📅 Last Updated: **2026-11-22 21:40:06 UTC**
 
 | 🌍 **Currency** | 🏳️ **Country**           | 💰 **Exchange Rate**        |
 |-----------------|--------------------------|-----------------------------|
@@ -18,7 +18,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | ANG             | Netherlands Antilles                 | 1 ANG = 0.02 INR |
 | AOA             | Angola                 | 1 AOA = 9.18 INR |
 | ARS             | Argentina                 | 1 ARS = 15.68 INR |
-| AUD             | Australia                 | 1 AUD = 0.01 INR |
+| AUD             | Australia                 | 1 AUD = 0.02 INR |
 | AWG             | Aruba                 | 1 AWG = 0.02 INR |
 | AZN             | Azerbaijan                 | 1 AZN = 0.02 INR |
 | BAM             | Bosnia and Herzegovina                 | 1 BAM = 0.02 INR |
@@ -80,7 +80,7 @@ This repository **automatically updates** the exchange rates of various currenci
 | IMP             | Isle of Man                 | 1 IMP = 0.01 INR |
 | INR             | India                 | 1 INR = 0.93 INR |
 | IQD             | Iraq                 | 1 IQD = 15.14 INR |
-| IRR             | Iran                 | 1 IRR = 19373.65 INR |
+| IRR             | Iran                 | 1 IRR = 19373.64 INR |
 | ISK             | Iceland                 | 1 ISK = 1.25 INR |
 | JEP             | Jersey                 | 1 JEP = 0.01 INR |
 | JMD             | Jamaica                 | 1 JMD = 1.58 INR |
@@ -171,13 +171,13 @@ This repository **automatically updates** the exchange rates of various currenci
 | VND             | Vietnam                 | 1 VND = 258.01 INR |
 | VUV             | Vanuatu                 | 1 VUV = 1.21 INR |
 | WST             | Samoa                 | 1 WST = 0.03 INR |
-| XAF             | Unknown Country                 | 1 XAF = 5.98 INR |
+| XAF             | Unknown Country                 | 1 XAF = 5.97 INR |
 | XAG             | Unknown Country                 | 1 XAG = 0.00 INR |
 | XAU             | Unknown Country                 | 1 XAU = 0.00 INR |
 | XCD             | Unknown Country                 | 1 XCD = 0.03 INR |
 | XCG             | Unknown Country                 | 1 XCG = 0.02 INR |
 | XDR             | Unknown Country                 | 1 XDR = 0.01 INR |
-| XOF             | West African CFA Franc (XOF)                 | 1 XOF = 5.98 INR |
+| XOF             | West African CFA Franc (XOF)                 | 1 XOF = 5.97 INR |
 | XPF             | CFP Franc                 | 1 XPF = 1.09 INR |
 | YER             | Yemen                 | 1 YER = 2.37 INR |
 | ZAR             | South Africa                 | 1 ZAR = 0.18 INR |
